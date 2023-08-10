@@ -1,34 +1,49 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>1178233280000</ElapsedGameTime>
+  <ElapsedGameTime>1204026720000</ElapsedGameTime>
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
   <SpectatorPosition>
-    <Position x="4851.1147989976789" y="-1634.4945127063495" z="1080.3696919959325" />
-    <Forward x="-0.996648" y="0.0318037048" z="0.07537387" />
-    <Up x="-0.0233796053" y="-0.993643165" z="0.110121749" />
+    <Position x="27.549219763956724" y="-6.78893827485814" z="21.467400321225409" />
+    <Forward x="-0.766392" y="0.2509319" z="-0.591334462" />
+    <Up x="0.444784522" y="0.871471465" z="-0.206650048" />
     <Orientation>
-      <X>0.732702851</X>
-      <Y>0.0288694147</Y>
-      <Z>0.6782095</Z>
-      <W>0.04842531</W>
+      <X>0.0129430778</X>
+      <Y>0.45184648</Y>
+      <Z>-0.253173351</Z>
+      <W>0.855318964</W>
     </Orientation>
   </SpectatorPosition>
-  <SpectatorSpeed x="29.1929474" y="1" />
+  <SpectatorSpeed x="1.13906324" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraController>Entity</CameraController>
   <CameraEntity>72295701792108314</CameraEntity>
   <ControlledObject>72295701792108314</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2023-08-07T16:37:49.1228308-05:00</LastSaveTime>
-  <SpectatorDistance>3.04307342</SpectatorDistance>
+  <LastSaveTime>2023-08-10T18:18:47.8351438-05:00</LastSaveTime>
+  <SpectatorDistance>197.8469</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
     <SelectedSlot xsi:nil="true" />
-    <Slots />
+    <Slots>
+      <Slot>
+        <Index>0</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_MyProgrammableBlock" Subtype="6SidePB" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>4</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeHeavyBlockArmorBlock" />
+        </Data>
+      </Slot>
+    </Slots>
     <SlotsGamepad />
   </CharacterToolbar>
   <ControlledEntities>
@@ -300,6 +315,51 @@ ReplacePaintSurvival=False
             <IsLeader>false</IsLeader>
             <IsFounder>false</IsFounder>
           </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856000</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856005</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856010</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856015</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856020</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856025</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856030</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856035</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856040</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
         </Members>
         <JoinRequests />
         <AutoAcceptMember>true</AutoAcceptMember>
@@ -415,6 +475,51 @@ ReplacePaintSurvival=False
           </MyObjectBuilder_FactionMember>
           <MyObjectBuilder_FactionMember>
             <PlayerId>144115188075855993</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075855998</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856003</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856008</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856013</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856018</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856023</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856028</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856033</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075856038</PlayerId>
             <IsLeader>false</IsLeader>
             <IsFounder>false</IsFounder>
           </MyObjectBuilder_FactionMember>
@@ -783,6 +888,114 @@ ReplacePaintSurvival=False
           <Key>144115188075855995</Key>
           <Value>287319358652640245</Value>
         </item>
+        <item>
+          <Key>144115188075855996</Key>
+          <Value>276526462764568723</Value>
+        </item>
+        <item>
+          <Key>144115188075855998</Key>
+          <Value>245085451677896178</Value>
+        </item>
+        <item>
+          <Key>144115188075856000</Key>
+          <Value>287319358652640245</Value>
+        </item>
+        <item>
+          <Key>144115188075856001</Key>
+          <Value>256510674759880197</Value>
+        </item>
+        <item>
+          <Key>144115188075856003</Key>
+          <Value>245085451677896178</Value>
+        </item>
+        <item>
+          <Key>144115188075856005</Key>
+          <Value>287319358652640245</Value>
+        </item>
+        <item>
+          <Key>144115188075856006</Key>
+          <Value>280048576532474661</Value>
+        </item>
+        <item>
+          <Key>144115188075856008</Key>
+          <Value>245085451677896178</Value>
+        </item>
+        <item>
+          <Key>144115188075856010</Key>
+          <Value>287319358652640245</Value>
+        </item>
+        <item>
+          <Key>144115188075856011</Key>
+          <Value>276639321227427886</Value>
+        </item>
+        <item>
+          <Key>144115188075856013</Key>
+          <Value>245085451677896178</Value>
+        </item>
+        <item>
+          <Key>144115188075856015</Key>
+          <Value>287319358652640245</Value>
+        </item>
+        <item>
+          <Key>144115188075856016</Key>
+          <Value>271666124725518725</Value>
+        </item>
+        <item>
+          <Key>144115188075856018</Key>
+          <Value>245085451677896178</Value>
+        </item>
+        <item>
+          <Key>144115188075856020</Key>
+          <Value>287319358652640245</Value>
+        </item>
+        <item>
+          <Key>144115188075856021</Key>
+          <Value>261296091996388235</Value>
+        </item>
+        <item>
+          <Key>144115188075856023</Key>
+          <Value>245085451677896178</Value>
+        </item>
+        <item>
+          <Key>144115188075856025</Key>
+          <Value>287319358652640245</Value>
+        </item>
+        <item>
+          <Key>144115188075856026</Key>
+          <Value>247800508684825560</Value>
+        </item>
+        <item>
+          <Key>144115188075856028</Key>
+          <Value>245085451677896178</Value>
+        </item>
+        <item>
+          <Key>144115188075856030</Key>
+          <Value>287319358652640245</Value>
+        </item>
+        <item>
+          <Key>144115188075856031</Key>
+          <Value>216531184802310562</Value>
+        </item>
+        <item>
+          <Key>144115188075856033</Key>
+          <Value>245085451677896178</Value>
+        </item>
+        <item>
+          <Key>144115188075856035</Key>
+          <Value>287319358652640245</Value>
+        </item>
+        <item>
+          <Key>144115188075856036</Key>
+          <Value>269364382097021292</Value>
+        </item>
+        <item>
+          <Key>144115188075856038</Key>
+          <Value>245085451677896178</Value>
+        </item>
+        <item>
+          <Key>144115188075856040</Key>
+          <Value>287319358652640245</Value>
+        </item>
       </dictionary>
     </Players>
     <Relations>
@@ -1117,24 +1330,44 @@ ReplacePaintSurvival=False
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="SCEntityCover">
-      <Name>3007088668.sbm</Name>
-      <PublishedFileId>3007088668</PublishedFileId>
+    <ModItem FriendlyName="StarCore Tournament Weapon Category">
+      <Name>2785856511.sbm</Name>
+      <PublishedFileId>2785856511</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WC Radar">
-      <Name>2957590632.sbm</Name>
-      <PublishedFileId>2957590632</PublishedFileId>
+    <ModItem FriendlyName="TIOStarcore-Dev">
+      <Name>3017842205.sbm</Name>
+      <PublishedFileId>3017842205</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="PickmeRevengeance">
-      <Name>2986589130.sbm</Name>
-      <PublishedFileId>2986589130</PublishedFileId>
+    <ModItem FriendlyName="Starcore-MA-Weapons-Natemod-Dev">
+      <Name>3017832153.sbm</Name>
+      <PublishedFileId>3017832153</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="REEECore-Dev">
+      <Name>3017853482.sbm</Name>
+      <PublishedFileId>3017853482</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Heavy-Assault-Systems-Dev">
+      <Name>3017853784.sbm</Name>
+      <PublishedFileId>3017853784</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore_Pointslist_Dev">
+      <Name>3017849106.sbm</Name>
+      <PublishedFileId>3017849106</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WCT FreeSubgrid">
       <Name>2464635274.sbm</Name>
       <PublishedFileId>2464635274</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="WC Radar">
+      <Name>2957590632.sbm</Name>
+      <PublishedFileId>2957590632</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Turretring Rotors (Advanced Rotors ofc)">
@@ -1152,9 +1385,9 @@ ReplacePaintSurvival=False
       <PublishedFileId>2927550954</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore Supar Sekrit AutoMcDognut Bootleg">
-      <Name>2953252400.sbm</Name>
-      <PublishedFileId>2953252400</PublishedFileId>
+    <ModItem FriendlyName="StarCore Skybox - ColdRing">
+      <Name>2888273073.sbm</Name>
+      <PublishedFileId>2888273073</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Starcore Season 3 Pointslist">
@@ -1170,11 +1403,6 @@ ReplacePaintSurvival=False
     <ModItem FriendlyName="Starcore Season 3 Adjustments">
       <Name>2819060821.sbm</Name>
       <PublishedFileId>2819060821</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCore Skybox - ColdRing">
-      <Name>2888273073.sbm</Name>
-      <PublishedFileId>2888273073</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Starcore Reaction Control System">
@@ -1237,11 +1465,6 @@ ReplacePaintSurvival=False
       <PublishedFileId>2414738008</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Ship Points - Sharetrack Starcore">
-      <Name>2756825813.sbm</Name>
-      <PublishedFileId>2756825813</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="SCCleanModCategories">
       <Name>2893360222.sbm</Name>
       <PublishedFileId>2893360222</PublishedFileId>
@@ -1272,9 +1495,19 @@ ReplacePaintSurvival=False
       <PublishedFileId>2739842988</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="PickmeRevengeance">
+      <Name>2986589130.sbm</Name>
+      <PublishedFileId>2986589130</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
       <Name>500818376.sbm</Name>
       <PublishedFileId>500818376</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="OldBlockRestrictions">
+      <Name>2995125400.sbm</Name>
+      <PublishedFileId>2995125400</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NoDrawH2">
@@ -1297,11 +1530,6 @@ ReplacePaintSurvival=False
       <PublishedFileId>2449073590</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Invalid's Vanilla Lobotomizer">
-      <Name>2953725395.sbm</Name>
-      <PublishedFileId>2953725395</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="InertBlocks">
       <Name>2229276399.sbm</Name>
       <PublishedFileId>2229276399</PublishedFileId>
@@ -1310,16 +1538,6 @@ ReplacePaintSurvival=False
     <ModItem FriendlyName="Hydrogen Unbalanced">
       <Name>2660617910.sbm</Name>
       <PublishedFileId>2660617910</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Heavy Assault Systems">
-      <Name>2737684960.sbm</Name>
-      <PublishedFileId>2737684960</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Harmzone Muzzmod">
-      <Name>2890480337.sbm</Name>
-      <PublishedFileId>2890480337</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Font: Mono Color">
@@ -1360,11 +1578,6 @@ ReplacePaintSurvival=False
     <ModItem FriendlyName="BoostedThrustersMuzzmod">
       <Name>2669855688.sbm</Name>
       <PublishedFileId>2669855688</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="OldBlockRestrictions">
-      <Name>2995125400.sbm</Name>
-      <PublishedFileId>2995125400</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="AQD - Upgradeable Gyroscopes">
@@ -1434,11 +1647,11 @@ ReplacePaintSurvival=False
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.06666667" y="0.199999988" z="0.4029136" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.8407602-05:00</LastLoginTime>
       <SavedCharacters>
         <long>72295701792108314</long>
       </SavedCharacters>
-      <LastLogoutTime>2023-08-07T16:37:49.1228308-05:00</LastLogoutTime>
+      <LastLogoutTime>2023-08-10T18:18:47.848146-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>3148.53824160442</X>
@@ -1453,7 +1666,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -1466,7 +1679,7 @@ ReplacePaintSurvival=False
       <DisplayName>NEU NPC9276</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-02-13T15:55:03.9461903-06:00</LastLogoutTime>
       <RespawnShips />
@@ -1479,7 +1692,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC5502</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-02-13T15:55:37.4774061-06:00</LastLogoutTime>
       <RespawnShips />
@@ -1492,7 +1705,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC7271</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-02-13T15:56:10.8932299-06:00</LastLogoutTime>
       <RespawnShips />
@@ -1505,7 +1718,7 @@ ReplacePaintSurvival=False
       <DisplayName>ADM NPC8867</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-02-23T22:30:19.0174251-06:00</LastLogoutTime>
       <RespawnShips />
@@ -1518,7 +1731,7 @@ ReplacePaintSurvival=False
       <DisplayName>GRN NPC5717</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-02-23T23:11:27.5877603-06:00</LastLogoutTime>
       <RespawnShips />
@@ -1531,7 +1744,7 @@ ReplacePaintSurvival=False
       <DisplayName>GRE NPC4463</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-02-23T23:12:12.0215261-06:00</LastLogoutTime>
       <RespawnShips />
@@ -1544,7 +1757,7 @@ ReplacePaintSurvival=False
       <DisplayName>OUT NPC7701</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T10:34:30.9808978-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1557,7 +1770,7 @@ ReplacePaintSurvival=False
       <DisplayName>Out Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T10:34:31.0078985-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1570,7 +1783,7 @@ ReplacePaintSurvival=False
       <DisplayName>NEU NPC1642</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T10:34:31.0178971-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1583,7 +1796,7 @@ ReplacePaintSurvival=False
       <DisplayName>Neutral Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T10:34:31.0178971-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1596,7 +1809,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC9872</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T10:34:31.0178971-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1609,7 +1822,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T10:34:31.0178971-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1622,7 +1835,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC5739</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T10:34:31.0178971-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1635,7 +1848,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T10:34:31.0178971-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1648,7 +1861,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T11:01:30.56233-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1661,7 +1874,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC5355</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T11:01:31.2203292-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1674,7 +1887,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T11:01:31.2203292-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1687,7 +1900,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC3436</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.80176-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T11:01:31.2203292-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1700,7 +1913,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T11:01:31.2203292-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1713,7 +1926,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T11:05:09.9176011-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1726,7 +1939,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC1330</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T11:05:10.6236012-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1739,7 +1952,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T11:05:10.6236012-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1752,7 +1965,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC8084</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T11:05:10.6246014-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1765,7 +1978,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-06-25T11:05:10.6246014-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1778,7 +1991,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T16:27:10.8421276-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1791,7 +2004,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC9932</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T16:27:12.0403151-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1804,7 +2017,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T16:27:12.0403151-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1817,7 +2030,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC2769</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T16:27:12.0403151-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1830,7 +2043,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T16:27:12.0403151-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1843,7 +2056,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T16:52:11.9467645-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1856,7 +2069,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC9910</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T16:52:13.3558093-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1869,7 +2082,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T16:52:13.3558093-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1882,7 +2095,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC5671</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T16:52:13.3558093-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1895,7 +2108,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T16:52:13.3558093-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1908,7 +2121,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T17:06:33.7171011-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1921,7 +2134,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC4090</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T17:06:35.2794579-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1934,7 +2147,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T17:06:35.2794579-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1947,7 +2160,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC9868</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T17:06:35.2794579-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1960,7 +2173,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T17:06:35.2794579-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1973,7 +2186,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:02:22.3335234-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1986,7 +2199,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC4864</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:02:23.4394999-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1999,7 +2212,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:02:23.4394999-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2012,7 +2225,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC1295</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:02:23.4424992-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2025,7 +2238,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:02:23.4424992-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2038,7 +2251,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:47:09.4366975-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2051,7 +2264,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC8525</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:47:10.3565687-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2064,7 +2277,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:47:10.3570807-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2077,7 +2290,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC8886</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:47:10.3570807-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2090,7 +2303,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:47:10.3570807-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2103,7 +2316,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:53:41.7621697-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2116,7 +2329,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC5690</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:53:43.3050018-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2129,7 +2342,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:53:43.3050018-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2142,7 +2355,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC8387</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:53:43.3050018-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2155,7 +2368,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-20T20:53:43.3050018-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2168,7 +2381,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T11:50:48.2752893-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2181,7 +2394,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC7912</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T11:50:49.3608295-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2194,7 +2407,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T11:50:49.3608295-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2207,7 +2420,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC1005</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T11:50:49.3608295-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2220,7 +2433,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T11:50:49.3608295-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2233,7 +2446,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:00:02.9131874-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2246,7 +2459,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC3768</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:00:04.1652875-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2259,7 +2472,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:00:04.1652875-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2272,7 +2485,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC3106</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:00:04.1652875-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2285,7 +2498,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:00:04.1652875-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2298,7 +2511,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:32:46.880461-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2311,7 +2524,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC6564</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:32:48.3215456-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2324,7 +2537,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:32:48.3215456-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2337,7 +2550,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC8551</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:32:48.3215456-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2350,7 +2563,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:32:48.3215456-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2363,7 +2576,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:44:18.482666-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2376,7 +2589,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC1207</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:44:20.0068974-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2389,7 +2602,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:44:20.0068974-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2402,7 +2615,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC5000</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:44:20.0068974-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2415,7 +2628,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-07-22T12:44:20.0068974-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2428,7 +2641,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:25:17.3110094-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2441,7 +2654,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC1509</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:25:18.1230096-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2454,7 +2667,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:25:18.1260094-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2467,7 +2680,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC6747</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:25:18.1300111-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2480,7 +2693,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:25:18.1300111-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2493,7 +2706,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:28:29.7775383-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2506,7 +2719,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC8872</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:28:30.1795415-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2519,7 +2732,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:28:30.1795415-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2532,7 +2745,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC4902</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:28:30.1795415-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2545,7 +2758,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:28:30.1795415-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2558,7 +2771,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:31:54.5939987-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2571,7 +2784,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC8664</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:31:55.0689972-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2584,7 +2797,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:31:55.0689972-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2597,7 +2810,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC4385</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:31:55.0689972-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2610,7 +2823,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:31:55.0689972-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2623,7 +2836,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:34:01.6654623-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2636,7 +2849,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC9972</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:34:02.0994621-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2649,7 +2862,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:34:02.0994621-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2662,7 +2875,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC9089</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:34:02.0994621-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2675,7 +2888,7 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.1677776-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:34:02.0994621-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2688,7 +2901,7 @@ ReplacePaintSurvival=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.3597777-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:37:09.3597777-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2701,7 +2914,7 @@ ReplacePaintSurvival=False
       <DisplayName>BLU NPC1118</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.7887779-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:37:09.7887779-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2714,7 +2927,7 @@ ReplacePaintSurvival=False
       <DisplayName>Blue Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.7887779-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:37:09.7887779-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2727,7 +2940,7 @@ ReplacePaintSurvival=False
       <DisplayName>RED NPC7127</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.7887779-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:37:09.7887779-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2740,9 +2953,594 @@ ReplacePaintSurvival=False
       <DisplayName>Red Mascot</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-08-07T16:37:09.7887779-05:00</LastLoginTime>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-08-07T16:37:09.7887779-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855996</IdentityId>
+      <DisplayName>Space Pirates</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:05:26.3858471-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855997</IdentityId>
+      <DisplayName>BLU NPC9252</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:05:26.7308485-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855998</IdentityId>
+      <DisplayName>Blue Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:05:26.7308485-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855999</IdentityId>
+      <DisplayName>RED NPC8066</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:05:26.7308485-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856000</IdentityId>
+      <DisplayName>Red Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:05:26.7308485-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856001</IdentityId>
+      <DisplayName>Space Pirates</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:10:28.79866-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856002</IdentityId>
+      <DisplayName>BLU NPC4462</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:10:29.1596596-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856003</IdentityId>
+      <DisplayName>Blue Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:10:29.1596596-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856004</IdentityId>
+      <DisplayName>RED NPC4034</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:10:29.1596596-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856005</IdentityId>
+      <DisplayName>Red Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:10:29.1596596-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856006</IdentityId>
+      <DisplayName>Space Pirates</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:34:41.1211248-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856007</IdentityId>
+      <DisplayName>BLU NPC4343</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:34:41.6811254-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856008</IdentityId>
+      <DisplayName>Blue Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:34:41.6871251-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856009</IdentityId>
+      <DisplayName>RED NPC5890</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:34:41.690124-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856010</IdentityId>
+      <DisplayName>Red Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:34:41.6941272-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856011</IdentityId>
+      <DisplayName>Space Pirates</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:59:52.5478019-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856012</IdentityId>
+      <DisplayName>BLU NPC4194</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:59:52.9437989-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856013</IdentityId>
+      <DisplayName>Blue Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:59:52.9437989-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856014</IdentityId>
+      <DisplayName>RED NPC7927</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:59:52.9437989-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856015</IdentityId>
+      <DisplayName>Red Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T00:59:52.9437989-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856016</IdentityId>
+      <DisplayName>Space Pirates</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T01:17:53.8801745-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856017</IdentityId>
+      <DisplayName>BLU NPC4214</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T01:17:54.4031722-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856018</IdentityId>
+      <DisplayName>Blue Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T01:17:54.4031722-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856019</IdentityId>
+      <DisplayName>RED NPC5310</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T01:17:54.4031722-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856020</IdentityId>
+      <DisplayName>Red Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T01:17:54.4031722-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856021</IdentityId>
+      <DisplayName>Space Pirates</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T14:46:09.2206498-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856022</IdentityId>
+      <DisplayName>BLU NPC2517</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T14:46:09.6926486-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856023</IdentityId>
+      <DisplayName>Blue Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T14:46:09.6946488-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856024</IdentityId>
+      <DisplayName>RED NPC5318</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T14:46:09.6976491-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856025</IdentityId>
+      <DisplayName>Red Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T14:46:09.6976491-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856026</IdentityId>
+      <DisplayName>Space Pirates</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T15:47:39.1320113-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856027</IdentityId>
+      <DisplayName>BLU NPC8024</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T15:47:39.8400133-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856028</IdentityId>
+      <DisplayName>Blue Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T15:47:39.8400133-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856029</IdentityId>
+      <DisplayName>RED NPC3781</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T15:47:39.8400133-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856030</IdentityId>
+      <DisplayName>Red Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T15:47:39.8400133-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856031</IdentityId>
+      <DisplayName>Space Pirates</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.803761-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T15:49:17.4523199-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856032</IdentityId>
+      <DisplayName>BLU NPC1887</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.8247605-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T15:49:17.8693197-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856033</IdentityId>
+      <DisplayName>Blue Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.8247605-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T15:49:17.8693197-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856034</IdentityId>
+      <DisplayName>RED NPC9465</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.8247605-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T15:49:17.8693197-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856035</IdentityId>
+      <DisplayName>Red Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:27.8247605-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-09T15:49:17.8693197-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856036</IdentityId>
+      <DisplayName>Space Pirates</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:28.9607636-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-10T18:17:28.9607636-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856037</IdentityId>
+      <DisplayName>BLU NPC6367</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:29.4927621-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-10T18:17:29.4927621-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856038</IdentityId>
+      <DisplayName>Blue Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:29.4967616-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-10T18:17:29.4967616-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856039</IdentityId>
+      <DisplayName>RED NPC4263</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:29.5007616-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-10T18:17:29.5007616-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075856040</IdentityId>
+      <DisplayName>Red Mascot</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2023-08-10T18:17:29.5007616-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2023-08-10T18:17:29.5007616-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -2766,13 +3564,28 @@ ReplacePaintSurvival=False
           <Toolbar>
             <ToolbarType>Character</ToolbarType>
             <SelectedSlot xsi:nil="true" />
-            <Slots />
+            <Slots>
+              <Slot>
+                <Index>0</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_MyProgrammableBlock" Subtype="6SidePB" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>4</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeHeavyBlockArmorBlock" />
+                </Data>
+              </Slot>
+            </Slots>
             <SlotsGamepad />
           </Toolbar>
           <EntityCameraData>
             <CameraControllerSettings EntityId="72295701792108314">
               <IsFirstPerson>true</IsFirstPerson>
-              <Distance>3.0430734157562256</Distance>
+              <Distance>197.84689331054688</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
           </EntityCameraData>
@@ -2849,7 +3662,7 @@ ReplacePaintSurvival=False
             </Vector3>
           </BuildColorSlots>
           <CreativeToolsEnabled>false</CreativeToolsEnabled>
-          <RemoteAdminSettings>0</RemoteAdminSettings>
+          <RemoteAdminSettings>6</RemoteAdminSettings>
           <PromoteLevel>None</PromoteLevel>
           <BuildArmorSkin />
           <BuildColorSlot>0</BuildColorSlot>
@@ -3044,6 +3857,51 @@ ReplacePaintSurvival=False
     <long>144115188075855993</long>
     <long>144115188075855994</long>
     <long>144115188075855995</long>
+    <long>144115188075855996</long>
+    <long>144115188075855997</long>
+    <long>144115188075855998</long>
+    <long>144115188075855999</long>
+    <long>144115188075856000</long>
+    <long>144115188075856001</long>
+    <long>144115188075856002</long>
+    <long>144115188075856003</long>
+    <long>144115188075856004</long>
+    <long>144115188075856005</long>
+    <long>144115188075856006</long>
+    <long>144115188075856007</long>
+    <long>144115188075856008</long>
+    <long>144115188075856009</long>
+    <long>144115188075856010</long>
+    <long>144115188075856011</long>
+    <long>144115188075856012</long>
+    <long>144115188075856013</long>
+    <long>144115188075856014</long>
+    <long>144115188075856015</long>
+    <long>144115188075856016</long>
+    <long>144115188075856017</long>
+    <long>144115188075856018</long>
+    <long>144115188075856019</long>
+    <long>144115188075856020</long>
+    <long>144115188075856021</long>
+    <long>144115188075856022</long>
+    <long>144115188075856023</long>
+    <long>144115188075856024</long>
+    <long>144115188075856025</long>
+    <long>144115188075856026</long>
+    <long>144115188075856027</long>
+    <long>144115188075856028</long>
+    <long>144115188075856029</long>
+    <long>144115188075856030</long>
+    <long>144115188075856031</long>
+    <long>144115188075856032</long>
+    <long>144115188075856033</long>
+    <long>144115188075856034</long>
+    <long>144115188075856035</long>
+    <long>144115188075856036</long>
+    <long>144115188075856037</long>
+    <long>144115188075856038</long>
+    <long>144115188075856039</long>
+    <long>144115188075856040</long>
   </NonPlayerIdentities>
   <Gps>
     <dictionary>
@@ -3060,7 +3918,7 @@ ReplacePaintSurvival=False
                 <Z>0</Z>
               </coords>
               <isFinal>true</isFinal>
-              <showOnHud>false</showOnHud>
+              <showOnHud>true</showOnHud>
               <alwaysVisible>false</alwaysVisible>
               <color>
                 <PackedValue>4294967295</PackedValue>
@@ -3280,7 +4138,7 @@ ReplacePaintSurvival=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.8843845" y="-0.46501863" z="0.0402727537" />
+      <SunDirectionNormalized x="-0.809650838" y="-0.556860447" z="0.185397059" />
       <WeatherPlanetData />
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentAssetModifiers" />
@@ -65663,12 +66521,12 @@ ReplacePaintSurvival=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>75266</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>1650</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
       <Definition Type="MyObjectBuilder_CoordinateSystemDefinition" Subtype="CoordinateSystem" />
-      <LastCoordSysId>174</LastCoordSysId>
+      <LastCoordSysId>219</LastCoordSysId>
       <CoordSystems>
         <CoordSysInfo>
           <Id>6</Id>
@@ -65681,72 +66539,6 @@ ReplacePaintSurvival=False
           <EntityCount>2</EntityCount>
           <Rotation x="3.456071E-07" y="0.7071064" z="0.7071071" w="-3.456068E-07" />
           <Position x="-12045.386340638242" y="8.4528139553515338" z="0.17712324799024182" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>80</Id>
-          <EntityCount>1</EntityCount>
-          <Rotation x="-0.00662241457" y="-0.25320825" z="-0.0316319577" w="0.966871858" />
-          <Position x="-6.9980918249635424" y="66.7872103374192" z="-7.5454195347211535" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>144</Id>
-          <EntityCount>1</EntityCount>
-          <Rotation x="1.78148007E-09" y="1" z="1.78529675E-07" w="-1.40152654E-08" />
-          <Position x="2490.4316352475462" y="110.91950708808002" z="149.54420575773852" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>151</Id>
-          <EntityCount>1</EntityCount>
-          <Rotation x="1.78148007E-09" y="1" z="1.78529675E-07" w="-1.40152654E-08" />
-          <Position x="-2481.0199455473953" y="-7.1314920382518778" z="-51.770650415891183" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>158</Id>
-          <EntityCount>6</EntityCount>
-          <Rotation x="-0.03299004" y="0.999446332" z="0.00251582335" w="0.003512568" />
-          <Position x="7859.1933624989579" y="-573.99297156508771" z="3663.0657690847574" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>163</Id>
-          <EntityCount>6</EntityCount>
-          <Rotation x="3.7170893E-09" y="1" z="1.88287844E-10" w="-4.88791159E-07" />
-          <Position x="1760.4726717354952" y="-3235.0713879530185" z="1956.4444024394529" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>159</Id>
-          <EntityCount>6</EntityCount>
-          <Rotation x="-0.03299004" y="0.999446332" z="0.00251582335" w="0.003512568" />
-          <Position x="-7671.8232093577144" y="-59.201502529624577" z="-3963.7440308087725" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>157</Id>
-          <EntityCount>6</EntityCount>
-          <Rotation x="-0.03299004" y="0.999446332" z="0.00251582335" w="0.003512568" />
-          <Position x="-1661.9137051412044" y="2073.6785157298027" z="-3079.8510690885382" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>160</Id>
-          <EntityCount>6</EntityCount>
-          <Rotation x="-0.4473994" y="0.888934553" z="0.09239927" w="-0.0330410376" />
-          <Position x="3363.8129430277777" y="-690.54224608333357" z="-9139.3405336318356" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>162</Id>
-          <EntityCount>6</EntityCount>
-          <Rotation x="-0.4473994" y="0.888934553" z="0.09239927" w="-0.0330410376" />
-          <Position x="-2985.1790492222749" y="544.18594590489647" z="7634.49305756411" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>172</Id>
-          <EntityCount>1</EntityCount>
-          <Rotation x="-0.0502944924" y="0.9966197" z="-0.002340337" w="0.0649163" />
-          <Position x="2787.7382744425308" y="1151.1502919556422" z="5705.4913100652921" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>173</Id>
-          <EntityCount>1</EntityCount>
-          <Rotation x="-0.0004340547" y="0.998699367" z="0.0009010609" w="0.0509759448" />
-          <Position x="-3127.4923573083961" y="-661.88130665091239" z="-5641.272588118698" />
         </CoordSysInfo>
       </CoordSystems>
     </MyObjectBuilder_SessionComponent>
@@ -66561,8 +67353,368 @@ ReplacePaintSurvival=False
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075855991</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075855991</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075855992</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075855992</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075855993</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075855993</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075855994</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075855994</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075855995</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075855995</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075855996</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075855996</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075855997</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075855997</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075855998</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075855998</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075855999</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075855999</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856000</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856000</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856001</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856001</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856002</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856002</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856003</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856003</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856004</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856004</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856005</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856005</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856006</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856006</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856007</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856007</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856008</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856008</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856009</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856009</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856010</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856010</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856011</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856011</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856012</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856012</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856013</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856013</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856014</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856014</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856015</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856015</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856016</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856016</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856017</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856017</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856018</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856018</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856019</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856019</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856020</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856020</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856021</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856021</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856022</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856022</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856023</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856023</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856024</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856024</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856025</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856025</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856026</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856026</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856027</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856027</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856028</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856028</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856029</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856029</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856030</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856030</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856031</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856031</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856032</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856032</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856033</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856033</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856034</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856034</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075856035</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075856035</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
       </Accounts>
-      <OverallBalance>1700960000</OverallBalance>
+      <OverallBalance>2601410000</OverallBalance>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_NeutralShipSpawner">
       <ShipsInProgress />

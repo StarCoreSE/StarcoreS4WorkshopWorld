@@ -144,24 +144,44 @@
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="SCEntityCover">
-      <Name>3007088668.sbm</Name>
-      <PublishedFileId>3007088668</PublishedFileId>
+    <ModItem FriendlyName="StarCore Tournament Weapon Category">
+      <Name>2785856511.sbm</Name>
+      <PublishedFileId>2785856511</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WC Radar">
-      <Name>2957590632.sbm</Name>
-      <PublishedFileId>2957590632</PublishedFileId>
+    <ModItem FriendlyName="TIOStarcore-Dev">
+      <Name>3017842205.sbm</Name>
+      <PublishedFileId>3017842205</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="PickmeRevengeance">
-      <Name>2986589130.sbm</Name>
-      <PublishedFileId>2986589130</PublishedFileId>
+    <ModItem FriendlyName="Starcore-MA-Weapons-Natemod-Dev">
+      <Name>3017832153.sbm</Name>
+      <PublishedFileId>3017832153</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="REEECore-Dev">
+      <Name>3017853482.sbm</Name>
+      <PublishedFileId>3017853482</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Heavy-Assault-Systems-Dev">
+      <Name>3017853784.sbm</Name>
+      <PublishedFileId>3017853784</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore_Pointslist_Dev">
+      <Name>3017849106.sbm</Name>
+      <PublishedFileId>3017849106</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WCT FreeSubgrid">
       <Name>2464635274.sbm</Name>
       <PublishedFileId>2464635274</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="WC Radar">
+      <Name>2957590632.sbm</Name>
+      <PublishedFileId>2957590632</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Turretring Rotors (Advanced Rotors ofc)">
@@ -179,9 +199,9 @@
       <PublishedFileId>2927550954</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore Supar Sekrit AutoMcDognut Bootleg">
-      <Name>2953252400.sbm</Name>
-      <PublishedFileId>2953252400</PublishedFileId>
+    <ModItem FriendlyName="StarCore Skybox - ColdRing">
+      <Name>2888273073.sbm</Name>
+      <PublishedFileId>2888273073</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Starcore Season 3 Pointslist">
@@ -197,11 +217,6 @@
     <ModItem FriendlyName="Starcore Season 3 Adjustments">
       <Name>2819060821.sbm</Name>
       <PublishedFileId>2819060821</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCore Skybox - ColdRing">
-      <Name>2888273073.sbm</Name>
-      <PublishedFileId>2888273073</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Starcore Reaction Control System">
@@ -264,11 +279,6 @@
       <PublishedFileId>2414738008</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Ship Points - Sharetrack Starcore">
-      <Name>2756825813.sbm</Name>
-      <PublishedFileId>2756825813</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="SCCleanModCategories">
       <Name>2893360222.sbm</Name>
       <PublishedFileId>2893360222</PublishedFileId>
@@ -299,9 +309,19 @@
       <PublishedFileId>2739842988</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="PickmeRevengeance">
+      <Name>2986589130.sbm</Name>
+      <PublishedFileId>2986589130</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
       <Name>500818376.sbm</Name>
       <PublishedFileId>500818376</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="OldBlockRestrictions">
+      <Name>2995125400.sbm</Name>
+      <PublishedFileId>2995125400</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NoDrawH2">
@@ -324,11 +344,6 @@
       <PublishedFileId>2449073590</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Invalid's Vanilla Lobotomizer">
-      <Name>2953725395.sbm</Name>
-      <PublishedFileId>2953725395</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="InertBlocks">
       <Name>2229276399.sbm</Name>
       <PublishedFileId>2229276399</PublishedFileId>
@@ -337,16 +352,6 @@
     <ModItem FriendlyName="Hydrogen Unbalanced">
       <Name>2660617910.sbm</Name>
       <PublishedFileId>2660617910</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Heavy Assault Systems">
-      <Name>2737684960.sbm</Name>
-      <PublishedFileId>2737684960</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Harmzone Muzzmod">
-      <Name>2890480337.sbm</Name>
-      <PublishedFileId>2890480337</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Font: Mono Color">
@@ -387,11 +392,6 @@
     <ModItem FriendlyName="BoostedThrustersMuzzmod">
       <Name>2669855688.sbm</Name>
       <PublishedFileId>2669855688</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="OldBlockRestrictions">
-      <Name>2995125400.sbm</Name>
-      <PublishedFileId>2995125400</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="AQD - Upgradeable Gyroscopes">
@@ -451,5 +451,5 @@
     </ModItem>
   </Mods>
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
-  <LastSaveTime>2023-08-07T16:37:49.1228308-05:00</LastSaveTime>
+  <LastSaveTime>2023-08-10T18:18:47.8351438-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
