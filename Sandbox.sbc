@@ -5,13 +5,13 @@
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
   <SpectatorPosition>
     <Position x="-11887.166632902603" y="-7.1077496240229738" z="-1.1708489938303048" />
-    <Forward x="-0.994346142" y="-0.0110134762" z="0.105614349" />
-    <Up x="0.01591326" y="-0.99883" z="0.0456632" />
+    <Forward x="-0.9943462" y="-0.0110135" z="0.105614349" />
+    <Up x="0.0159132741" y="-0.99883014" z="0.04566318" />
     <Orientation>
       <X>0.743208</X>
-      <Y>0.0211915635</Y>
+      <Y>0.0211915616</Y>
       <Z>0.668623149</Z>
-      <W>0.011655462</W>
+      <W>0.0116554452</W>
     </Orientation>
   </SpectatorPosition>
   <SpectatorSpeed x="0.5062503" y="1" />
@@ -66,7 +66,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>16</MaxPlayers>
+    <MaxPlayers>32</MaxPlayers>
     <MaxFloatingObjects>1</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -134,7 +134,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>20000</SyncDistance>
+    <SyncDistance>25000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -1369,6 +1369,10 @@ ReplacePaintSurvival=False
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="StarCoreCTF">
+      <Name>StarCoreCTF</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
@@ -1377,11 +1381,6 @@ ReplacePaintSurvival=False
     <ModItem FriendlyName="SCEntityCover">
       <Name>3007088668.sbm</Name>
       <PublishedFileId>3007088668</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCoreCTF">
-      <Name>3018817811.sbm</Name>
-      <PublishedFileId>3018817811</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="StarCore Tournament Weapon Category">
@@ -1690,7 +1689,6 @@ ReplacePaintSurvival=False
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -3938,8 +3936,6 @@ ReplacePaintSurvival=False
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -68073,7 +68069,4 @@ ReplacePaintSurvival=False
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
