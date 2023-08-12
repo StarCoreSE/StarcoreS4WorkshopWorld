@@ -1,5 +1,5 @@
-[18:17:29.575] [T1] [DS=False] DEBUG | Log Started
-[18:17:29.694] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[01:25:41.808] [T1] [DS=False] DEBUG | Log Started
+[01:25:41.850] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -706,11 +706,11 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_MotorSuspension/SmallSuspension2x2Mirrored
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_BatteryBlock/EntityCover
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_BatteryBlock/EntityCover2
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_BatteryBlock/EntityCoverEveFreighter
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorStator/SubgridBase
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorAdvancedStator/TRR_5x5x1_TR_Stator
@@ -1000,23 +1000,23 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/LargeRailgun_SC
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Assault
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Thanatos
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Alecto
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Mammon
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Esper
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Vulcan
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Cyclops
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Crossfield
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_MammonMK2
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_Beacon/HarmBeacon
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_UpgradeModule/BlinkDriveLarge
@@ -1212,7 +1212,39 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/NovaCannon
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_BatteryBlock/EntityCover3
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Heavy_Repeater
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Laser_Block
 ->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_ConveyorSorter/Type18_Artillery
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Type21_Artillery
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Torp_Block
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_LargeMissileTurret/K_HS_9x9_K3_King
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_LargeMissileTurret/K_HS_9x9_HSRB_Dreadnight
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_ConveyorSorter/Light_Coil_Turret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Assault_Coil_Turret
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_ConveyorSorter/K_HS_Damnation
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_LargeMissileTurret/KreegMagnetarCannon
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_ConveyorSorter/RailgunTurret_Block
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_ConveyorSorter/Fixed_Rockets
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Null_Point_Jump_Disruptor_Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_ConveyorSorter/K_HSR_Utilities_Reactor_Gel_LG
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_ConveyorSorter/PriestReskin_Block
+->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
 
