@@ -1,5 +1,5 @@
-[15:32:23.966] [T1] [DS=False] DEBUG | Log Started
-[15:32:24.005] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[02:51:31.780] [T1] [DS=False] DEBUG | Log Started
+[02:51:31.814] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1244,6 +1244,14 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/K_HSR_Utilities_Reactor_Gel_LG
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/PriestReskin_Block
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/ShipyardCorner_Large
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/ShipyardCorner_Small
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_UpgradeModule/SmallLargeBlockUpgrade
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_UpgradeModule/LargeLargeBlockUpgrade
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components

@@ -7,8 +7,8 @@
     <AssemblerSpeedMultiplier>1</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
-    <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <OnlineMode>OFFLINE</OnlineMode>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -76,7 +76,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -139,8 +139,39 @@
     <MaxProductionQueueLength>50</MaxProductionQueueLength>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Upgradable Reactors">
+      <Name>2961585236.sbm</Name>
+      <PublishedFileId>2961585236</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TIOStarcore-Dev">
+      <Name>TIOStarcore-Dev</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore_Pointslist-Dev">
+      <Name>Starcore_Pointslist-Dev</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore-MA-Weapons-Natemod-Dev">
+      <Name>Starcore-MA-Weapons-Natemod-Dev</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="REEECore-Dev">
+      <Name>REEECore-Dev</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Heavy-Assault-Systems-Dev">
+      <Name>Heavy-Assault-Systems-Dev</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SCAFFOLD-invalid-test">
+      <Name>3013053286.sbm</Name>
+      <PublishedFileId>3013053286</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="StarCoreCTF">
-      <Name>StarCoreCTF</Name>
+      <Name>3018817811.sbm</Name>
+      <PublishedFileId>3018817811</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
@@ -156,31 +187,6 @@
     <ModItem FriendlyName="StarCore Tournament Weapon Category">
       <Name>2785856511.sbm</Name>
       <PublishedFileId>2785856511</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TIOStarcore-Dev">
-      <Name>3017842205.sbm</Name>
-      <PublishedFileId>3017842205</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore-MA-Weapons-Natemod-Dev">
-      <Name>3017832153.sbm</Name>
-      <PublishedFileId>3017832153</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="REEECore-Dev">
-      <Name>3017853482.sbm</Name>
-      <PublishedFileId>3017853482</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Heavy-Assault-Systems-Dev">
-      <Name>3017853784.sbm</Name>
-      <PublishedFileId>3017853784</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore_Pointslist_Dev">
-      <Name>3017849106.sbm</Name>
-      <PublishedFileId>3017849106</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WCT FreeSubgrid">
@@ -460,5 +466,5 @@
     </ModItem>
   </Mods>
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
-  <LastSaveTime>2023-08-12T01:26:49.073986-05:00</LastSaveTime>
+  <LastSaveTime>2023-08-15T02:52:28.8691507-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
