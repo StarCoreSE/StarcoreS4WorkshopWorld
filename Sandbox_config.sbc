@@ -8,7 +8,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -76,7 +76,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -144,6 +144,16 @@
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="StarCore Skybox - FrigidCloseAtmos">
+      <Name>2897715771.sbm</Name>
+      <PublishedFileId>2897715771</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SCMobilityBlocks">
+      <Name>3020885446.sbm</Name>
+      <PublishedFileId>3020885446</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="TIOStarcore-Dev">
       <Name>3017842205.sbm</Name>
       <PublishedFileId>3017842205</PublishedFileId>
@@ -177,6 +187,11 @@
     <ModItem FriendlyName="SCAFFOLD-invalid-test">
       <Name>3013053286.sbm</Name>
       <PublishedFileId>3013053286</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Ship Points - Sharetrack Starcore">
+      <Name>2756825813.sbm</Name>
+      <PublishedFileId>2756825813</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="StarCoreCTF">
@@ -219,11 +234,6 @@
       <PublishedFileId>2927550954</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="StarCore Skybox - ColdRing">
-      <Name>2888273073.sbm</Name>
-      <PublishedFileId>2888273073</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Starcore Season 3 Pointslist">
       <Name>2862022197.sbm</Name>
       <PublishedFileId>2862022197</PublishedFileId>
@@ -262,11 +272,6 @@
     <ModItem FriendlyName="StarCore Impact Sound Replacement">
       <Name>2832531817.sbm</Name>
       <PublishedFileId>2832531817</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCore Heavy Ion">
-      <Name>2602992737.sbm</Name>
-      <PublishedFileId>2602992737</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="StarCore Enabler Rewards">
