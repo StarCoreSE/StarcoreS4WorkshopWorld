@@ -349,11 +349,6 @@
       <PublishedFileId>2995125400</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="NoDrawH2">
-      <Name>2660628874.sbm</Name>
-      <PublishedFileId>2660628874</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="More Advanced Rotors">
       <Name>2824332148.sbm</Name>
       <PublishedFileId>2824332148</PublishedFileId>
@@ -367,16 +362,6 @@
     <ModItem FriendlyName="MA Buster Blocks">
       <Name>2449073590.sbm</Name>
       <PublishedFileId>2449073590</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="InertBlocks">
-      <Name>2229276399.sbm</Name>
-      <PublishedFileId>2229276399</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Hydrogen Unbalanced">
-      <Name>2660617910.sbm</Name>
-      <PublishedFileId>2660617910</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Font: Mono Color">
@@ -412,11 +397,6 @@
     <ModItem FriendlyName="BuildInfo (extra block+terminal info, air leak finder)">
       <Name>514062285.sbm</Name>
       <PublishedFileId>514062285</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="BoostedThrustersMuzzmod">
-      <Name>2669855688.sbm</Name>
-      <PublishedFileId>2669855688</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="AQD - Upgradeable Gyroscopes">

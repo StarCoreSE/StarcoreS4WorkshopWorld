@@ -5,12 +5,12 @@
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
   <SpectatorPosition>
     <Position x="-2695.5711676363608" y="-621.62737777623033" z="3279.1901419489559" />
-    <Forward x="0.16316627" y="0.1057865" z="-0.9809108" />
-    <Up x="0.0581493452" y="0.9914754" z="0.1165985" />
+    <Forward x="0.16316627" y="0.105786495" z="-0.9809108" />
+    <Up x="0.0581493378" y="0.9914754" z="0.116598494" />
     <Orientation>
-      <X>0.0558956042</X>
+      <X>0.0558956</X>
       <Y>-0.08012668</Y>
-      <Z>-0.03373407</Z>
+      <Z>-0.0337340645</Z>
       <W>0.994644344</W>
     </Orientation>
   </SpectatorPosition>
@@ -1839,11 +1839,6 @@ ReplacePaintSurvival=False
       <PublishedFileId>2995125400</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="NoDrawH2">
-      <Name>2660628874.sbm</Name>
-      <PublishedFileId>2660628874</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="More Advanced Rotors">
       <Name>2824332148.sbm</Name>
       <PublishedFileId>2824332148</PublishedFileId>
@@ -1857,16 +1852,6 @@ ReplacePaintSurvival=False
     <ModItem FriendlyName="MA Buster Blocks">
       <Name>2449073590.sbm</Name>
       <PublishedFileId>2449073590</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="InertBlocks">
-      <Name>2229276399.sbm</Name>
-      <PublishedFileId>2229276399</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Hydrogen Unbalanced">
-      <Name>2660617910.sbm</Name>
-      <PublishedFileId>2660617910</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Font: Mono Color">
@@ -1902,11 +1887,6 @@ ReplacePaintSurvival=False
     <ModItem FriendlyName="BuildInfo (extra block+terminal info, air leak finder)">
       <Name>514062285.sbm</Name>
       <PublishedFileId>514062285</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="BoostedThrustersMuzzmod">
-      <Name>2669855688.sbm</Name>
-      <PublishedFileId>2669855688</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="AQD - Upgradeable Gyroscopes">
