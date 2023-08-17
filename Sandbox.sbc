@@ -5,12 +5,12 @@
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
   <SpectatorPosition>
     <Position x="-2695.5711676363608" y="-621.62737777623033" z="3279.1901419489559" />
-    <Forward x="0.16316627" y="0.105786487" z="-0.9809108" />
-    <Up x="0.058149334" y="0.9914754" z="0.116598487" />
+    <Forward x="0.16316627" y="0.10578648" z="-0.9809108" />
+    <Up x="0.0581493266" y="0.9914754" z="0.116598479" />
     <Orientation>
-      <X>0.0558955967</X>
+      <X>0.055895593</X>
       <Y>-0.08012668</Y>
-      <Z>-0.03373406</Z>
+      <Z>-0.0337340571</Z>
       <W>0.994644344</W>
     </Orientation>
   </SpectatorPosition>
@@ -101,7 +101,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -169,7 +169,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -1632,6 +1632,11 @@ ReplacePaintSurvival=False
     <ModItem FriendlyName="WeaponCore - 2.4">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Animation Engine">
+      <Name>2880317963.sbm</Name>
+      <PublishedFileId>2880317963</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WCT FreeSubgrid">
