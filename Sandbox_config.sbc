@@ -8,7 +8,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -76,7 +76,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -144,71 +144,6 @@
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="StarCore Skybox - FrigidCloseAtmos">
-      <Name>2897715771.sbm</Name>
-      <PublishedFileId>2897715771</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SCMobilityBlocks">
-      <Name>3020885446.sbm</Name>
-      <PublishedFileId>3020885446</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TIOStarcore-Dev">
-      <Name>3017842205.sbm</Name>
-      <PublishedFileId>3017842205</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore_Pointslist_Dev">
-      <Name>3017849106.sbm</Name>
-      <PublishedFileId>3017849106</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore-MA-Weapons-Natemod-Dev">
-      <Name>3017832153.sbm</Name>
-      <PublishedFileId>3017832153</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="REEECore-Dev">
-      <Name>3017853482.sbm</Name>
-      <PublishedFileId>3017853482</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Heavy-Assault-Systems-Dev">
-      <Name>3017853784.sbm</Name>
-      <PublishedFileId>3017853784</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Upgradable Reactors">
-      <Name>2961585236.sbm</Name>
-      <PublishedFileId>2961585236</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SCAFFOLD-invalid-test">
-      <Name>3013053286.sbm</Name>
-      <PublishedFileId>3013053286</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Ship Points - Sharetrack Starcore">
-      <Name>2756825813.sbm</Name>
-      <PublishedFileId>2756825813</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCoreCTF">
-      <Name>3018817811.sbm</Name>
-      <PublishedFileId>3018817811</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SCEntityCover">
-      <Name>3007088668.sbm</Name>
-      <PublishedFileId>3007088668</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCore Tournament Weapon Category">
-      <Name>2785856511.sbm</Name>
-      <PublishedFileId>2785856511</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="WCT FreeSubgrid">
       <Name>2464635274.sbm</Name>
       <PublishedFileId>2464635274</PublishedFileId>
@@ -219,9 +154,19 @@
       <PublishedFileId>2957590632</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Upgradable Reactors">
+      <Name>2961585236.sbm</Name>
+      <PublishedFileId>2961585236</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Turretring Rotors (Advanced Rotors ofc)">
       <Name>2824324850.sbm</Name>
       <PublishedFileId>2824324850</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TIOStarcore-Dev">
+      <Name>3017842205.sbm</Name>
+      <PublishedFileId>3017842205</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Text HUD API">
@@ -234,19 +179,29 @@
       <PublishedFileId>2927550954</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore Season 3 Pointslist">
-      <Name>2862022197.sbm</Name>
-      <PublishedFileId>2862022197</PublishedFileId>
+    <ModItem FriendlyName="StarCoreCTF">
+      <Name>3018817811.sbm</Name>
+      <PublishedFileId>3018817811</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore Season 3 Block Resistance">
-      <Name>2819061326.sbm</Name>
-      <PublishedFileId>2819061326</PublishedFileId>
+    <ModItem FriendlyName="Starcore_Pointslist_Dev">
+      <Name>3017849106.sbm</Name>
+      <PublishedFileId>3017849106</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore Season 3 Adjustments">
-      <Name>2819060821.sbm</Name>
-      <PublishedFileId>2819060821</PublishedFileId>
+    <ModItem FriendlyName="Starcore-MA-Weapons-Natemod-Dev">
+      <Name>3017832153.sbm</Name>
+      <PublishedFileId>3017832153</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="StarCore Tournament Weapon Category">
+      <Name>2785856511.sbm</Name>
+      <PublishedFileId>2785856511</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="StarCore Skybox - FrigidCloseAtmos">
+      <Name>2897715771.sbm</Name>
+      <PublishedFileId>2897715771</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Starcore Reaction Control System">
@@ -304,6 +259,21 @@
       <PublishedFileId>2414738008</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Ship Points - Sharetrack Starcore">
+      <Name>2756825813.sbm</Name>
+      <PublishedFileId>2756825813</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SCMobilityBlocks">
+      <Name>3020885446.sbm</Name>
+      <PublishedFileId>3020885446</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SCEntityCover">
+      <Name>3007088668.sbm</Name>
+      <PublishedFileId>3007088668</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="SCCleanModCategories">
       <Name>2893360222.sbm</Name>
       <PublishedFileId>2893360222</PublishedFileId>
@@ -314,9 +284,14 @@
       <PublishedFileId>2893360271</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Say No To Scrap">
-      <Name>1146278097.sbm</Name>
-      <PublishedFileId>1146278097</PublishedFileId>
+    <ModItem FriendlyName="SCAFFOLD-invalid-test">
+      <Name>3013053286.sbm</Name>
+      <PublishedFileId>3013053286</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SC_Season_4_Adjustments">
+      <Name>3021448970.sbm</Name>
+      <PublishedFileId>3021448970</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Rich HUD Master">
@@ -329,9 +304,9 @@
       <PublishedFileId>1359618037</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="RealFakeDoors">
-      <Name>2739842988.sbm</Name>
-      <PublishedFileId>2739842988</PublishedFileId>
+    <ModItem FriendlyName="REEECore-Dev">
+      <Name>3017853482.sbm</Name>
+      <PublishedFileId>3017853482</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="PickmeRevengeance">
@@ -362,6 +337,11 @@
     <ModItem FriendlyName="MA Buster Blocks">
       <Name>2449073590.sbm</Name>
       <PublishedFileId>2449073590</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Heavy-Assault-Systems-Dev">
+      <Name>3017853784.sbm</Name>
+      <PublishedFileId>3017853784</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Font: Mono Color">
