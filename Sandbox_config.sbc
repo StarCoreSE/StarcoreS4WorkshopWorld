@@ -7,8 +7,8 @@
     <AssemblerSpeedMultiplier>1</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
-    <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <OnlineMode>OFFLINE</OnlineMode>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -76,7 +76,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -139,6 +139,21 @@
     <MaxProductionQueueLength>50</MaxProductionQueueLength>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="StarCorePracticeAI">
+      <Name>3024311955.sbm</Name>
+      <PublishedFileId>3024311955</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore Paperdoll">
+      <Name>2846569122.sbm</Name>
+      <PublishedFileId>2846569122</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SC_Season_4_Adjustments">
+      <Name>3021448970.sbm</Name>
+      <PublishedFileId>3021448970</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
@@ -214,11 +229,6 @@
       <PublishedFileId>2973091771</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore Paperdoll">
-      <Name>2846569122.sbm</Name>
-      <PublishedFileId>2846569122</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Starcore Minimalist Hud">
       <Name>2846202563.sbm</Name>
       <PublishedFileId>2846202563</PublishedFileId>
@@ -292,11 +302,6 @@
     <ModItem FriendlyName="SCAFFOLD-invalid-test">
       <Name>3013053286.sbm</Name>
       <PublishedFileId>3013053286</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SC_Season_4_Adjustments">
-      <Name>3021448970.sbm</Name>
-      <PublishedFileId>3021448970</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Rich HUD Master">
@@ -441,5 +446,5 @@
     </ModItem>
   </Mods>
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
-  <LastSaveTime>2023-08-15T02:52:28.8691507-05:00</LastSaveTime>
+  <LastSaveTime>2023-08-27T17:52:24.117492-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
