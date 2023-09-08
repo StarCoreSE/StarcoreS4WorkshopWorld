@@ -5,12 +5,12 @@
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
   <SpectatorPosition>
     <Position x="-8763.2727373664784" y="288.37594543940395" z="248.74656587625168" />
-    <Forward x="-0.669776" y="-0.5506249" z="-0.498209059" />
-    <Up x="-0.391098022" y="0.8319116" z="-0.393656433" />
+    <Forward x="-0.669776" y="-0.5506249" z="-0.4982091" />
+    <Up x="-0.391097963" y="0.8319116" z="-0.3936564" />
     <Orientation>
       <X>-0.2743639</X>
       <Y>0.419070274</Y>
-      <Z>0.09364091</Z>
+      <Z>0.0936409</Z>
       <W>0.860427737</W>
     </Orientation>
   </SpectatorPosition>
@@ -73,7 +73,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -144,7 +144,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -3218,6 +3218,11 @@ ReplacePaintSurvival=False
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="Relative Top Speed">
+      <Name>1359618037.sbm</Name>
+      <PublishedFileId>1359618037</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="MultiplayerPredictionSwitcher">
       <Name>3032417765.sbm</Name>
       <PublishedFileId>3032417765</PublishedFileId>
@@ -3351,11 +3356,6 @@ ReplacePaintSurvival=False
     <ModItem FriendlyName="Ship Points - Sharetrack Starcore">
       <Name>2756825813.sbm</Name>
       <PublishedFileId>2756825813</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SCRelativeTopSpeed">
-      <Name>3031680659.sbm</Name>
-      <PublishedFileId>3031680659</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="SCMobilityBlocks">
