@@ -5,10 +5,10 @@
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
   <SpectatorPosition>
     <Position x="-8763.2727373664784" y="288.37594543940395" z="248.74656587625168" />
-    <Forward x="-0.669776" y="-0.550624967" z="-0.498209" />
-    <Up x="-0.391098052" y="0.831911564" z="-0.393656462" />
+    <Forward x="-0.669776" y="-0.5506249" z="-0.498209059" />
+    <Up x="-0.391098022" y="0.8319116" z="-0.393656433" />
     <Orientation>
-      <X>-0.274363935</X>
+      <X>-0.2743639</X>
       <Y>0.419070274</Y>
       <Z>0.09364091</Z>
       <W>0.860427737</W>
@@ -73,7 +73,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -144,7 +144,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -3218,6 +3218,11 @@ ReplacePaintSurvival=False
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="MultiplayerPredictionSwitcher">
+      <Name>3032417765.sbm</Name>
+      <PublishedFileId>3032417765</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="SCKoth">
       <Name>3032031200.sbm</Name>
       <PublishedFileId>3032031200</PublishedFileId>
@@ -3529,6 +3534,7 @@ ReplacePaintSurvival=False
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -6694,6 +6700,8 @@ ReplacePaintSurvival=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -71457,4 +71465,7 @@ ReplacePaintSurvival=False
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
