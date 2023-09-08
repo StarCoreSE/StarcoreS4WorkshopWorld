@@ -5,8 +5,8 @@
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
   <SpectatorPosition>
     <Position x="-8763.272737366482" y="288.37594543940492" z="248.74656587625174" />
-    <Forward x="-0.669776" y="-0.5506249" z="-0.4982091" />
-    <Up x="-0.391097963" y="0.8319117" z="-0.393656433" />
+    <Forward x="-0.669776" y="-0.5506249" z="-0.498209059" />
+    <Up x="-0.391097963" y="0.8319116" z="-0.393656433" />
     <Orientation>
       <X>-0.274363935</X>
       <Y>0.419070274</Y>
@@ -179,7 +179,6 @@
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
-    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>true</EnableSelectivePhysicsUpdates>
@@ -3241,29 +3240,9 @@ ReplacePaintSurvival=False
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
-    <ModItem FriendlyName="Relative Top Speed">
-      <Name>1359618037.sbm</Name>
-      <PublishedFileId>1359618037</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
-      <Name>3032417765.sbm</Name>
-      <PublishedFileId>3032417765</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SCKoth">
-      <Name>3032031200.sbm</Name>
-      <PublishedFileId>3032031200</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[Depreciated] WCT FreeSubgrid">
-      <Name>2464635274.sbm</Name>
-      <PublishedFileId>2464635274</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WC Radar">
@@ -3316,9 +3295,9 @@ ReplacePaintSurvival=False
       <PublishedFileId>2785856511</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="StarCore Skybox - FrigidCloseAtmos">
-      <Name>2897715771.sbm</Name>
-      <PublishedFileId>2897715771</PublishedFileId>
+    <ModItem FriendlyName="StarCore Skybox - BlueGasGiantRings">
+      <Name>2802640095.sbm</Name>
+      <PublishedFileId>2802640095</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Starcore Reaction Control System">
@@ -3386,6 +3365,11 @@ ReplacePaintSurvival=False
       <PublishedFileId>3020885446</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="SCKoth">
+      <Name>3032031200.sbm</Name>
+      <PublishedFileId>3032031200</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="SCEntityCover">
       <Name>3007088668.sbm</Name>
       <PublishedFileId>3007088668</PublishedFileId>
@@ -3421,6 +3405,11 @@ ReplacePaintSurvival=False
       <PublishedFileId>1965654081</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Relative Top Speed">
+      <Name>1359618037.sbm</Name>
+      <PublishedFileId>1359618037</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="REEECore-Dev">
       <Name>3017853482.sbm</Name>
       <PublishedFileId>3017853482</PublishedFileId>
@@ -3439,6 +3428,11 @@ ReplacePaintSurvival=False
     <ModItem FriendlyName="OldBlockRestrictions">
       <Name>2995125400.sbm</Name>
       <PublishedFileId>2995125400</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
+      <Name>3032417765.sbm</Name>
+      <PublishedFileId>3032417765</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="More Advanced Rotors">
@@ -3554,6 +3548,11 @@ ReplacePaintSurvival=False
     <ModItem FriendlyName="[SpraysAddon]Hazzard signs">
       <Name>2804100557.sbm</Name>
       <PublishedFileId>2804100557</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[Depreciated] WCT FreeSubgrid">
+      <Name>2464635274.sbm</Name>
+      <PublishedFileId>2464635274</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
@@ -71602,4 +71601,3 @@ ReplacePaintSurvival=False
     <dictionary />
   </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
-<!-- Saved '2023-09-07T23:43:57.6201066-05:00' with SEToolbox version '1.203.22.3' -->

@@ -144,29 +144,9 @@
     <EnemyTargetIndicatorDistance>20</EnemyTargetIndicatorDistance>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Relative Top Speed">
-      <Name>1359618037.sbm</Name>
-      <PublishedFileId>1359618037</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
-      <Name>3032417765.sbm</Name>
-      <PublishedFileId>3032417765</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SCKoth">
-      <Name>3032031200.sbm</Name>
-      <PublishedFileId>3032031200</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[Depreciated] WCT FreeSubgrid">
-      <Name>2464635274.sbm</Name>
-      <PublishedFileId>2464635274</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WC Radar">
@@ -219,9 +199,9 @@
       <PublishedFileId>2785856511</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="StarCore Skybox - FrigidCloseAtmos">
-      <Name>2897715771.sbm</Name>
-      <PublishedFileId>2897715771</PublishedFileId>
+    <ModItem FriendlyName="StarCore Skybox - BlueGasGiantRings">
+      <Name>2802640095.sbm</Name>
+      <PublishedFileId>2802640095</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Starcore Reaction Control System">
@@ -289,6 +269,11 @@
       <PublishedFileId>3020885446</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="SCKoth">
+      <Name>3032031200.sbm</Name>
+      <PublishedFileId>3032031200</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="SCEntityCover">
       <Name>3007088668.sbm</Name>
       <PublishedFileId>3007088668</PublishedFileId>
@@ -324,6 +309,11 @@
       <PublishedFileId>1965654081</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Relative Top Speed">
+      <Name>1359618037.sbm</Name>
+      <PublishedFileId>1359618037</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="REEECore-Dev">
       <Name>3017853482.sbm</Name>
       <PublishedFileId>3017853482</PublishedFileId>
@@ -342,6 +332,11 @@
     <ModItem FriendlyName="OldBlockRestrictions">
       <Name>2995125400.sbm</Name>
       <PublishedFileId>2995125400</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
+      <Name>3032417765.sbm</Name>
+      <PublishedFileId>3032417765</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="More Advanced Rotors">
@@ -457,6 +452,11 @@
     <ModItem FriendlyName="[SpraysAddon]Hazzard signs">
       <Name>2804100557.sbm</Name>
       <PublishedFileId>2804100557</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[Depreciated] WCT FreeSubgrid">
+      <Name>2464635274.sbm</Name>
+      <PublishedFileId>2464635274</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
