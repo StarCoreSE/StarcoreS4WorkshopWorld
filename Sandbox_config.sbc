@@ -149,7 +149,7 @@
       <PublishedFileId>1359618037</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="MultiplayerPredictionSwitcher">
+    <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
       <Name>3032417765.sbm</Name>
       <PublishedFileId>3032417765</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -164,7 +164,7 @@
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WCT FreeSubgrid">
+    <ModItem FriendlyName="[Depreciated] WCT FreeSubgrid">
       <Name>2464635274.sbm</Name>
       <PublishedFileId>2464635274</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -461,5 +461,5 @@
     </ModItem>
   </Mods>
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
-  <LastSaveTime>2023-09-06T23:00:09.3843295-05:00</LastSaveTime>
+  <LastSaveTime>2023-09-07T23:43:03.6584151-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
