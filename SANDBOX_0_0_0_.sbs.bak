@@ -95,6 +95,7 @@
       </Inventory>
       <Battery>
         <CurrentCapacity>1E-05</CurrentCapacity>
+        <RegenEffects />
       </Battery>
       <LightEnabled>false</LightEnabled>
       <UsingLadder xsi:nil="true" />
@@ -132,13 +133,244 @@
       <UsingLadderInfo xsi:nil="true" />
       <EnableBroadcastingPlayerToggle>true</EnableBroadcastingPlayerToggle>
     </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Character">
+      <SubtypeName>Default_Astronaut</SubtypeName>
+      <EntityId>124168712738897777</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>124168712738897777</Name>
+      <PositionAndOrientation>
+        <Position x="-5.7502042709934376" y="-3.2556740174929275" z="5.9947938791805608" />
+        <Forward x="0.7508686" y="0.632429361" z="-0.190340087" />
+        <Up x="0.254426271" y="-0.0110309077" z="0.9670293" />
+        <Orientation>
+          <X>0.5979484</X>
+          <Y>-0.217457414</Y>
+          <Z>-0.38467288</Z>
+          <W>0.668727756</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyEntityStatComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_CharacterStatComponent">
+              <Stats>
+                <MyObjectBuilder_EntityStat>
+                  <SubtypeName>SpaceCharacterHealth</SubtypeName>
+                  <Value>1</Value>
+                  <MaxValue>1</MaxValue>
+                  <StatRegenAmountMultiplier>1</StatRegenAmountMultiplier>
+                  <StatRegenAmountMultiplierDuration>0</StatRegenAmountMultiplierDuration>
+                </MyObjectBuilder_EntityStat>
+              </Stats>
+              <ScriptNames>
+                <string>SpaceStatEffect</string>
+              </ScriptNames>
+            </Component>
+          </ComponentData>
+          <ComponentData>
+            <TypeId>MyAssetModifierComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_AssetModifierComponent">
+              <AssetModifiers>
+                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Policeman_Helmet" />
+                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Suit" />
+                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Gloves" />
+                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Boots" />
+              </AssetModifiers>
+            </Component>
+          </ComponentData>
+          <ComponentData>
+            <TypeId>MyInventoryBase</TypeId>
+            <Component xsi:type="MyObjectBuilder_Inventory">
+              <Items>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>AngleGrinderItem</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>0</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>HandDrillItem</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>1</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>WelderItem</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>2</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>AutomaticRifleItem</SubtypeName>
+                    <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
+                      <SubtypeName>RifleGun</SubtypeName>
+                      <EntityId>0</EntityId>
+                      <PersistentFlags>None</PersistentFlags>
+                    </GunEntity>
+                  </PhysicalContent>
+                  <ItemId>3</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>10</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
+                    <SubtypeName>NATO_5p56x45mm</SubtypeName>
+                    <ProjectilesCount>0</ProjectilesCount>
+                  </PhysicalContent>
+                  <ItemId>4</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
+                    <SubtypeName>HydrogenBottle</SubtypeName>
+                    <GasLevel>1</GasLevel>
+                  </PhysicalContent>
+                  <ItemId>5</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_OxygenContainerObject">
+                    <SubtypeName>OxygenBottle</SubtypeName>
+                    <GasLevel>1</GasLevel>
+                    <OxygenLevel>0</OxygenLevel>
+                  </PhysicalContent>
+                  <ItemId>6</ItemId>
+                </MyObjectBuilder_InventoryItem>
+              </Items>
+              <nextItemId>7</nextItemId>
+              <Volume>0.4</Volume>
+              <Mass>9223372036854.775807</Mass>
+              <MaxItemCount>2147483647</MaxItemCount>
+              <Size xsi:nil="true" />
+              <InventoryFlags />
+              <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <CharacterModel>Default_Astronaut</CharacterModel>
+      <Inventory>
+        <Items>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+              <SubtypeName>AngleGrinderItem</SubtypeName>
+            </PhysicalContent>
+            <ItemId>0</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+              <SubtypeName>HandDrillItem</SubtypeName>
+            </PhysicalContent>
+            <ItemId>1</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+              <SubtypeName>WelderItem</SubtypeName>
+            </PhysicalContent>
+            <ItemId>2</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+              <SubtypeName>AutomaticRifleItem</SubtypeName>
+              <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
+                <SubtypeName>RifleGun</SubtypeName>
+                <EntityId>0</EntityId>
+                <PersistentFlags>None</PersistentFlags>
+              </GunEntity>
+            </PhysicalContent>
+            <ItemId>3</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>10</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
+              <SubtypeName>NATO_5p56x45mm</SubtypeName>
+              <ProjectilesCount>0</ProjectilesCount>
+            </PhysicalContent>
+            <ItemId>4</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
+              <SubtypeName>HydrogenBottle</SubtypeName>
+              <GasLevel>1</GasLevel>
+            </PhysicalContent>
+            <ItemId>5</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_OxygenContainerObject">
+              <SubtypeName>OxygenBottle</SubtypeName>
+              <GasLevel>1</GasLevel>
+              <OxygenLevel>0</OxygenLevel>
+            </PhysicalContent>
+            <ItemId>6</ItemId>
+          </MyObjectBuilder_InventoryItem>
+        </Items>
+        <nextItemId>7</nextItemId>
+        <Volume>0.4</Volume>
+        <Mass>9223372036854.775807</Mass>
+        <MaxItemCount>2147483647</MaxItemCount>
+        <Size xsi:nil="true" />
+        <InventoryFlags />
+        <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+      </Inventory>
+      <Battery>
+        <CurrentCapacity>1E-05</CurrentCapacity>
+        <RegenEffects />
+      </Battery>
+      <LightEnabled>false</LightEnabled>
+      <UsingLadder xsi:nil="true" />
+      <HeadAngle x="0" y="0" />
+      <LinearVelocity x="0" y="0" z="0" />
+      <AutoenableJetpackDelay>-1</AutoenableJetpackDelay>
+      <JetpackEnabled>true</JetpackEnabled>
+      <ColorMaskHSV x="1" y="0" z="0" />
+      <LootingCounter>0</LootingCounter>
+      <DisplayName>Invalid</DisplayName>
+      <IsInFirstPersonView>true</IsInFirstPersonView>
+      <EnableBroadcasting>true</EnableBroadcasting>
+      <OxygenLevel>1</OxygenLevel>
+      <EnvironmentOxygenLevel>0</EnvironmentOxygenLevel>
+      <StoredGases>
+        <StoredGas>
+          <Id Type="MyObjectBuilder_GasProperties" Subtype="Hydrogen" />
+          <FillLevel>1</FillLevel>
+        </StoredGas>
+        <StoredGas>
+          <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
+          <FillLevel>1</FillLevel>
+        </StoredGas>
+      </StoredGases>
+      <MovementState>Falling</MovementState>
+      <EnabledComponents>
+        <string>RagdollComponent</string>
+        <string>InventorySpawnComponent</string>
+      </EnabledComponents>
+      <NeedsOxygenFromSuit>false</NeedsOxygenFromSuit>
+      <OwningPlayerIdentityId>144115188075855895</OwningPlayerIdentityId>
+      <IsPersistenceCharacter>false</IsPersistenceCharacter>
+      <IsStartingCharacterForLobby>false</IsStartingCharacterForLobby>
+      <RelativeDampeningEntity>0</RelativeDampeningEntity>
+      <UsingLadderInfo xsi:nil="true" />
+      <EnableBroadcastingPlayerToggle>true</EnableBroadcastingPlayerToggle>
+    </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_CubeGrid">
       <SubtypeName />
       <EntityId>98682552849442638</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>109384483529193582</Name>
       <PositionAndOrientation>
-        <Position x="7500" y="0" z="0" />
+        <Position x="25.398155315272042" y="-10.989909342837827" z="-165.34217428665292" />
         <Forward x="0.00458046" y="0.00458046" z="0.999979" />
         <Up x="-0.9999895" y="1.04904166E-05" z="0.00458046" />
         <Orientation>
@@ -1401,49 +1633,13 @@ https://discord.gg/starcore
           <PublicDescription />
           <PublicTitle>Public title</PublicTitle>
           <ShowText>NONE</ShowText>
-          <FontColor>
-            <PackedValue>4294967295</PackedValue>
-            <X>255</X>
-            <Y>255</Y>
-            <Z>255</Z>
-            <R>255</R>
-            <G>255</G>
-            <B>255</B>
-            <A>255</A>
-          </FontColor>
-          <BackgroundColor>
-            <PackedValue>4278190080</PackedValue>
-            <X>0</X>
-            <Y>0</Y>
-            <Z>0</Z>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <A>255</A>
-          </BackgroundColor>
+          <FontColor xsi:nil="true" />
+          <BackgroundColor xsi:nil="true" />
           <CurrentShownTexture>0</CurrentShownTexture>
           <TextPadding>2</TextPadding>
           <Version>0</Version>
-          <ScriptBackgroundColor>
-            <PackedValue>4288108544</PackedValue>
-            <X>0</X>
-            <Y>88</Y>
-            <Z>151</Z>
-            <R>0</R>
-            <G>88</G>
-            <B>151</B>
-            <A>255</A>
-          </ScriptBackgroundColor>
-          <ScriptForegroundColor>
-            <PackedValue>4294962611</PackedValue>
-            <X>179</X>
-            <Y>237</Y>
-            <Z>255</Z>
-            <R>179</R>
-            <G>237</G>
-            <B>255</B>
-            <A>255</A>
-          </ScriptForegroundColor>
+          <ScriptBackgroundColor xsi:nil="true" />
+          <ScriptForegroundColor xsi:nil="true" />
           <Sprites>
             <Length>0</Length>
           </Sprites>
@@ -1553,49 +1749,13 @@ https://discord.gg/starcore
           <PublicDescription />
           <PublicTitle>Public title</PublicTitle>
           <ShowText>NONE</ShowText>
-          <FontColor>
-            <PackedValue>4294967295</PackedValue>
-            <X>255</X>
-            <Y>255</Y>
-            <Z>255</Z>
-            <R>255</R>
-            <G>255</G>
-            <B>255</B>
-            <A>255</A>
-          </FontColor>
-          <BackgroundColor>
-            <PackedValue>4278190080</PackedValue>
-            <X>0</X>
-            <Y>0</Y>
-            <Z>0</Z>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <A>255</A>
-          </BackgroundColor>
+          <FontColor xsi:nil="true" />
+          <BackgroundColor xsi:nil="true" />
           <CurrentShownTexture>0</CurrentShownTexture>
           <TextPadding>2</TextPadding>
           <Version>0</Version>
-          <ScriptBackgroundColor>
-            <PackedValue>4288108544</PackedValue>
-            <X>0</X>
-            <Y>88</Y>
-            <Z>151</Z>
-            <R>0</R>
-            <G>88</G>
-            <B>151</B>
-            <A>255</A>
-          </ScriptBackgroundColor>
-          <ScriptForegroundColor>
-            <PackedValue>4294962611</PackedValue>
-            <X>179</X>
-            <Y>237</Y>
-            <Z>255</Z>
-            <R>179</R>
-            <G>237</G>
-            <B>255</B>
-            <A>255</A>
-          </ScriptForegroundColor>
+          <ScriptBackgroundColor xsi:nil="true" />
+          <ScriptForegroundColor xsi:nil="true" />
           <Sprites>
             <Length>0</Length>
           </Sprites>
@@ -2842,7 +3002,7 @@ SPAWN</Text>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>117245969556208790</Name>
       <PositionAndOrientation>
-        <Position x="0" y="-7500" z="0" />
+        <Position x="-7.101372724416926" y="-23.489437382526795" z="-165.1360536754166" />
         <Forward x="0.00458046" y="0.00458046" z="0.999979" />
         <Up x="-0.9999895" y="1.04903283E-05" z="0.00458046" />
         <Orientation>
@@ -4105,49 +4265,13 @@ https://discord.gg/starcore
           <PublicDescription />
           <PublicTitle>Public title</PublicTitle>
           <ShowText>NONE</ShowText>
-          <FontColor>
-            <PackedValue>4294967295</PackedValue>
-            <X>255</X>
-            <Y>255</Y>
-            <Z>255</Z>
-            <R>255</R>
-            <G>255</G>
-            <B>255</B>
-            <A>255</A>
-          </FontColor>
-          <BackgroundColor>
-            <PackedValue>4278190080</PackedValue>
-            <X>0</X>
-            <Y>0</Y>
-            <Z>0</Z>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <A>255</A>
-          </BackgroundColor>
+          <FontColor xsi:nil="true" />
+          <BackgroundColor xsi:nil="true" />
           <CurrentShownTexture>0</CurrentShownTexture>
           <TextPadding>2</TextPadding>
           <Version>0</Version>
-          <ScriptBackgroundColor>
-            <PackedValue>4288108544</PackedValue>
-            <X>0</X>
-            <Y>88</Y>
-            <Z>151</Z>
-            <R>0</R>
-            <G>88</G>
-            <B>151</B>
-            <A>255</A>
-          </ScriptBackgroundColor>
-          <ScriptForegroundColor>
-            <PackedValue>4294962611</PackedValue>
-            <X>179</X>
-            <Y>237</Y>
-            <Z>255</Z>
-            <R>179</R>
-            <G>237</G>
-            <B>255</B>
-            <A>255</A>
-          </ScriptForegroundColor>
+          <ScriptBackgroundColor xsi:nil="true" />
+          <ScriptForegroundColor xsi:nil="true" />
           <Sprites>
             <Length>0</Length>
           </Sprites>
@@ -4244,49 +4368,13 @@ https://discord.gg/starcore
           <PublicDescription />
           <PublicTitle>Public title</PublicTitle>
           <ShowText>NONE</ShowText>
-          <FontColor>
-            <PackedValue>4294967295</PackedValue>
-            <X>255</X>
-            <Y>255</Y>
-            <Z>255</Z>
-            <R>255</R>
-            <G>255</G>
-            <B>255</B>
-            <A>255</A>
-          </FontColor>
-          <BackgroundColor>
-            <PackedValue>4278190080</PackedValue>
-            <X>0</X>
-            <Y>0</Y>
-            <Z>0</Z>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <A>255</A>
-          </BackgroundColor>
+          <FontColor xsi:nil="true" />
+          <BackgroundColor xsi:nil="true" />
           <CurrentShownTexture>0</CurrentShownTexture>
           <TextPadding>2</TextPadding>
           <Version>0</Version>
-          <ScriptBackgroundColor>
-            <PackedValue>4288108544</PackedValue>
-            <X>0</X>
-            <Y>88</Y>
-            <Z>151</Z>
-            <R>0</R>
-            <G>88</G>
-            <B>151</B>
-            <A>255</A>
-          </ScriptBackgroundColor>
-          <ScriptForegroundColor>
-            <PackedValue>4294962611</PackedValue>
-            <X>179</X>
-            <Y>237</Y>
-            <Z>255</Z>
-            <R>179</R>
-            <G>237</G>
-            <B>255</B>
-            <A>255</A>
-          </ScriptForegroundColor>
+          <ScriptBackgroundColor xsi:nil="true" />
+          <ScriptForegroundColor xsi:nil="true" />
           <Sprites>
             <Length>0</Length>
           </Sprites>
@@ -5525,7 +5613,7 @@ SPAWN</Text>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>109802805137955659</Name>
       <PositionAndOrientation>
-        <Position x="0" y="7500" z="0" />
+        <Position x="55.409291928916559" y="-10.978772729193315" z="-162.97964060234912" />
         <Forward x="0.00458046049" y="0.00458046" z="0.999979" />
         <Up x="-0.9999895" y="1.04904175E-05" z="0.00458046049" />
         <Orientation>
@@ -6790,49 +6878,13 @@ https://discord.gg/starcore
           <PublicDescription />
           <PublicTitle>Public title</PublicTitle>
           <ShowText>NONE</ShowText>
-          <FontColor>
-            <PackedValue>4294967295</PackedValue>
-            <X>255</X>
-            <Y>255</Y>
-            <Z>255</Z>
-            <R>255</R>
-            <G>255</G>
-            <B>255</B>
-            <A>255</A>
-          </FontColor>
-          <BackgroundColor>
-            <PackedValue>4278190080</PackedValue>
-            <X>0</X>
-            <Y>0</Y>
-            <Z>0</Z>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <A>255</A>
-          </BackgroundColor>
+          <FontColor xsi:nil="true" />
+          <BackgroundColor xsi:nil="true" />
           <CurrentShownTexture>0</CurrentShownTexture>
           <TextPadding>2</TextPadding>
           <Version>0</Version>
-          <ScriptBackgroundColor>
-            <PackedValue>4288108544</PackedValue>
-            <X>0</X>
-            <Y>88</Y>
-            <Z>151</Z>
-            <R>0</R>
-            <G>88</G>
-            <B>151</B>
-            <A>255</A>
-          </ScriptBackgroundColor>
-          <ScriptForegroundColor>
-            <PackedValue>4294962611</PackedValue>
-            <X>179</X>
-            <Y>237</Y>
-            <Z>255</Z>
-            <R>179</R>
-            <G>237</G>
-            <B>255</B>
-            <A>255</A>
-          </ScriptForegroundColor>
+          <ScriptBackgroundColor xsi:nil="true" />
+          <ScriptForegroundColor xsi:nil="true" />
           <Sprites>
             <Length>0</Length>
           </Sprites>
@@ -7347,49 +7399,13 @@ https://discord.gg/starcore
           <PublicDescription />
           <PublicTitle>Public title</PublicTitle>
           <ShowText>NONE</ShowText>
-          <FontColor>
-            <PackedValue>4294967295</PackedValue>
-            <X>255</X>
-            <Y>255</Y>
-            <Z>255</Z>
-            <R>255</R>
-            <G>255</G>
-            <B>255</B>
-            <A>255</A>
-          </FontColor>
-          <BackgroundColor>
-            <PackedValue>4278190080</PackedValue>
-            <X>0</X>
-            <Y>0</Y>
-            <Z>0</Z>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <A>255</A>
-          </BackgroundColor>
+          <FontColor xsi:nil="true" />
+          <BackgroundColor xsi:nil="true" />
           <CurrentShownTexture>0</CurrentShownTexture>
           <TextPadding>2</TextPadding>
           <Version>0</Version>
-          <ScriptBackgroundColor>
-            <PackedValue>4288108544</PackedValue>
-            <X>0</X>
-            <Y>88</Y>
-            <Z>151</Z>
-            <R>0</R>
-            <G>88</G>
-            <B>151</B>
-            <A>255</A>
-          </ScriptBackgroundColor>
-          <ScriptForegroundColor>
-            <PackedValue>4294962611</PackedValue>
-            <X>179</X>
-            <Y>237</Y>
-            <Z>255</Z>
-            <R>179</R>
-            <G>237</G>
-            <B>255</B>
-            <A>255</A>
-          </ScriptForegroundColor>
+          <ScriptBackgroundColor xsi:nil="true" />
+          <ScriptForegroundColor xsi:nil="true" />
           <Sprites>
             <Length>0</Length>
           </Sprites>
@@ -8206,4 +8222,3 @@ SPAWN</Text>
     </MyObjectBuilder_EntityBase>
   </SectorObjects>
 </MyObjectBuilder_Sector>
-<!-- Saved '2023-09-08T06:06:27.3301051-05:00' with SEToolbox version '1.203.22.3' -->

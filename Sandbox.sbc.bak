@@ -5,12 +5,12 @@
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
   <SpectatorPosition>
     <Position x="1000000.0000000003" y="1000000.0000000005" z="1000000.0000000009" />
-    <Forward x="-0.9587836" y="0.2789592" z="0.0539979637" />
-    <Up x="-0.0123885572" y="-0.2309027" z="0.972897947" />
+    <Forward x="-0.9587836" y="0.278959185" z="0.053997878" />
+    <Up x="-0.0123886038" y="-0.230902642" z="0.972898" />
     <Orientation>
       <X>0.6262523</X>
-      <Y>0.3671608</Y>
-      <Z>0.472503364</Z>
+      <Y>0.367160767</Y>
+      <Z>0.472503334</Z>
       <W>0.499741554</W>
     </Orientation>
   </SpectatorPosition>
@@ -221,7 +221,6 @@
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
-    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>true</EnableSelectivePhysicsUpdates>
@@ -1106,7 +1105,6 @@ ReplacePaintSurvival=False
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1310,7 +1308,6 @@ ReplacePaintSurvival=False
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
           </EntityCameraData>
-          <BuildColorSlots />
           <CreativeToolsEnabled>false</CreativeToolsEnabled>
           <RemoteAdminSettings>4</RemoteAdminSettings>
           <PromoteLevel>None</PromoteLevel>
@@ -1404,8 +1401,6 @@ ReplacePaintSurvival=False
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64214,8 +64209,4 @@ ReplacePaintSurvival=False
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
-<!-- Saved '2023-09-08T06:06:27.2701060-05:00' with SEToolbox version '1.203.22.3' -->
