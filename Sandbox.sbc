@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>1390560000</ElapsedGameTime>
+  <ElapsedGameTime>1399840000</ElapsedGameTime>
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
   <SpectatorPosition>
     <Position x="-0.32934382554148806" y="-0.074394008015407867" z="1.5750704078872861" />
@@ -21,7 +21,7 @@
   <ControlledObject>124168712738897777</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2023-09-08T05:28:05.7503617-05:00</LastSaveTime>
+  <LastSaveTime>2023-09-08T05:37:31.2298555-05:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -252,50 +252,34 @@
   </Settings>
   <ScriptManagerData>
     <variables>
-      <dictionary />
+      <dictionary>
+        <item>
+          <Key>PaintGunMod_ServerSettings</Key>
+          <Value xsi:type="xsd:string">[ServerSettings]
+RequireAmmo=True
+PaintSpeedMultiplier=1
+ReplacePaintSurvival=False
+</Value>
+        </item>
+      </dictionary>
     </variables>
   </ScriptManagerData>
   <AppVersion>1203023</AppVersion>
   <Factions>
     <Factions>
-      <MyObjectBuilder_Faction>
-        <FactionId>258961289160008772</FactionId>
-        <Tag>SPRT</Tag>
-        <Name>Space Pirates</Name>
-        <PrivateInfo />
-        <Members>
-          <MyObjectBuilder_FactionMember>
-            <PlayerId>144115188075855896</PlayerId>
-            <IsLeader>true</IsLeader>
-            <IsFounder>true</IsFounder>
-          </MyObjectBuilder_FactionMember>
-        </Members>
-        <JoinRequests />
-        <AutoAcceptMember>true</AutoAcceptMember>
-        <AutoAcceptPeace>false</AutoAcceptPeace>
-        <AcceptHumans>false</AcceptHumans>
-        <EnableFriendlyFire>false</EnableFriendlyFire>
-        <FactionType>Trader</FactionType>
-        <Stations />
-        <CustomColor x="0" y="-0.8" z="-0.450000018" />
-        <IconColor x="0" y="0" z="0" />
-        <FactionIcon>Textures\FactionLogo\PirateIcon.dds</FactionIcon>
-        <TransferedPCUDelta>0</TransferedPCUDelta>
-        <Score>0</Score>
-        <ObjectivePercentageCompleted>0</ObjectivePercentageCompleted>
-        <FactionIconWorkshopId xsi:nil="true" />
-      </MyObjectBuilder_Faction>
+
     </Factions>
     <Players>
       <dictionary>
-        <item>
-          <Key>144115188075855896</Key>
-          <Value>258961289160008772</Value>
-        </item>
+
       </dictionary>
     </Players>
-    <Relations />
-    <RelationsWithPlayers />
+    <Relations>
+
+    </Relations>
+    <RelationsWithPlayers>
+
+    </RelationsWithPlayers>
     <Requests />
     <PlayerToFactionsVis>
       <MyObjectBuilder_FactionsVisEntry>
@@ -484,7 +468,7 @@
       <PublishedFileId>3017853482</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="PickmeRevengeance">
+    <ModItem FriendlyName="PickmeRevengeance + FactionControl">
       <Name>2986589130.sbm</Name>
       <PublishedFileId>2986589130</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -625,40 +609,9 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855895</IdentityId>
-      <DisplayName>Invalid</DisplayName>
-      <CharacterEntityId>124168712738897777</CharacterEntityId>
-      <Model>Default_Astronaut</Model>
-      <ColorMask x="1" y="0" z="0" />
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-09-08T05:28:00.3266784-05:00</LastLoginTime>
-      <SavedCharacters>
-        <long>124168712738897777</long>
-      </SavedCharacters>
-      <LastLogoutTime>2023-09-08T05:28:05.7503617-05:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855896</IdentityId>
-      <DisplayName>Space Pirates</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-09-08T05:28:00.3376811-05:00</LastLoginTime>
-      <SavedCharacters />
-      <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-    </MyObjectBuilder_Identity>
   </Identities>
   <PreviousEnvironmentHostility>SAFE</PreviousEnvironmentHostility>
   <AllPlayersData>
@@ -910,10 +863,18 @@
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
+    <long>144115188075855897</long>
+    <long>144115188075855898</long>
+    <long>144115188075855899</long>
+    <long>144115188075855900</long>
+    <long>144115188075855901</long>
+    <long>144115188075855902</long>
+    <long>144115188075855903</long>
+    <long>144115188075855904</long>
+    <long>144115188075855905</long>
+    <long>144115188075855906</long>
   </NonPlayerIdentities>
   <Gps>
     <dictionary />
@@ -1034,7 +995,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="0.230916321" y="0.7045769" z="-0.671005964" />
+      <SunDirectionNormalized x="0.330530137" y="0.709758639" z="-0.62208724" />
       <WeatherPlanetData />
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentAssetModifiers" />
@@ -1099,7 +1060,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>35947</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>36897</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -1130,6 +1091,46 @@
           <OwnerIdentifier>258961289160008772</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>258961289160008772</OwnerIdentifier>
+            <Balance>0</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>283707778404685857</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>283707778404685857</OwnerIdentifier>
+            <Balance>0</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>266710211377778836</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>266710211377778836</OwnerIdentifier>
+            <Balance>0</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>251703979648135146</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>251703979648135146</OwnerIdentifier>
+            <Balance>0</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>275550650792596259</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>275550650792596259</OwnerIdentifier>
+            <Balance>0</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>241075932432369406</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>241075932432369406</OwnerIdentifier>
             <Balance>0</Balance>
             <Log />
           </Account>
@@ -1168,7 +1169,4 @@
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>

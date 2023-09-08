@@ -10,11 +10,11 @@
   </SectorEvents>
   <AppVersion>1203023</AppVersion>
   <Environment>
-    <SunAzimuth>-0.502843142</SunAzimuth>
+    <SunAzimuth>-0.502843</SunAzimuth>
     <SunElevation>0.789207757</SunElevation>
     <SunIntensity>0</SunIntensity>
     <FogMultiplier>0</FogMultiplier>
-    <FogDensity>0.003</FogDensity>
+    <FogDensity>0</FogDensity>
     <FogColor x="0" y="0" z="0" />
     <EnvironmentDefinition Type="MyObjectBuilder_EnvironmentDefinition" Subtype="Default" />
   </Environment>
@@ -26,14 +26,14 @@
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>124168712738897777</Name>
       <PositionAndOrientation>
-        <Position x="-6.0488120560982175" y="-3.6210254084516516" z="6.22544597487423" />
-        <Forward x="0.2737792" y="0.7332352" z="-0.6224235" />
-        <Up x="0.5815677" y="0.389232457" z="0.7143368" />
+        <Position x="-5.7502042709934376" y="-3.2556740174929275" z="5.9947938791805608" />
+        <Forward x="0.7508686" y="0.632429361" z="-0.190340087" />
+        <Up x="0.254426271" y="-0.0110309171" z="0.9670293" />
         <Orientation>
-          <X>0.434277683</X>
-          <Y>0.0138250738</Y>
-          <Z>-0.341740668</Z>
-          <W>0.8333217</W>
+          <X>0.5979484</X>
+          <Y>-0.217457414</Y>
+          <Z>-0.38467288</Z>
+          <W>0.668727756</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />

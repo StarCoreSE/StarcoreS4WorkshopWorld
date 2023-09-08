@@ -319,7 +319,7 @@
       <PublishedFileId>3017853482</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="PickmeRevengeance">
+    <ModItem FriendlyName="PickmeRevengeance + FactionControl">
       <Name>2986589130.sbm</Name>
       <PublishedFileId>2986589130</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -461,5 +461,5 @@
     </ModItem>
   </Mods>
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
-  <LastSaveTime>2023-09-08T05:28:05.7503617-05:00</LastSaveTime>
+  <LastSaveTime>2023-09-08T05:37:31.2298555-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
