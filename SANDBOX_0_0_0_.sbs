@@ -26,14 +26,14 @@
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>137948799842252309</Name>
       <PositionAndOrientation>
-        <Position x="26.611456408073035" y="6.8990679790313507" z="12.239507569431964" />
-        <Forward x="-0.151566252" y="0.03742345" z="-0.9877384" />
-        <Up x="-0.44685176" y="-0.893934667" z="0.03469898" />
+        <Position x="5.1703267312526631" y="4.9610854461635485" z="-23.608331850616327" />
+        <Forward x="-0.8988376" y="-0.21700865" z="0.3807863" />
+        <Up x="-0.12688449" y="0.960453153" z="0.247850552" />
         <Orientation>
-          <X>0.07829626</X>
-          <Y>-0.000702202262</Y>
-          <Z>0.9699676</Z>
-          <W>0.230287</W>
+          <X>0.0143170552</X>
+          <Y>0.8307757</Y>
+          <Z>0.139887109</Z>
+          <W>0.538552165</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -99,10 +99,10 @@
       </Battery>
       <LightEnabled>false</LightEnabled>
       <UsingLadder xsi:nil="true" />
-      <HeadAngle x="24.0089626" y="0" />
-      <LinearVelocity x="-0.379284948" y="0.0192818232" z="-0.0012182846" />
+      <HeadAngle x="0" y="0" />
+      <LinearVelocity x="0" y="0" z="0" />
       <AutoenableJetpackDelay>-1</AutoenableJetpackDelay>
-      <JetpackEnabled>false</JetpackEnabled>
+      <JetpackEnabled>true</JetpackEnabled>
       <ColorMaskHSV x="1" y="0" z="0" />
       <LootingCounter>0</LootingCounter>
       <DisplayName>Invalid</DisplayName>
@@ -120,7 +120,7 @@
           <FillLevel>1</FillLevel>
         </StoredGas>
       </StoredGases>
-      <MovementState>Falling</MovementState>
+      <MovementState>Flying</MovementState>
       <EnabledComponents>
         <string>RagdollComponent</string>
         <string>InventorySpawnComponent</string>
@@ -2496,18 +2496,18 @@ SPAWN</Text>
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_CubeGrid">
       <SubtypeName />
-      <EntityId>137771646814652555</EntityId>
+      <EntityId>86582109216020302</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>79229719533079363</Name>
+      <Name>137217214833777786</Name>
       <PositionAndOrientation>
-        <Position x="-7501.0739876337293" y="7.5336840321203908" z="-0.253854341155205" />
-        <Forward x="0.00458046" y="0.00458046" z="0.999979" />
-        <Up x="0.06315034" y="0.9979922" z="-0.004860623" />
+        <Position x="-7501.2448261635027" y="5.2879048380801219" z="3.0652762704075958" />
+        <Forward x="0.06298966" y="0.9974329" z="-0.0340574048" />
+        <Up x="-0.00642247126" y="-0.0337193459" z="-0.9994107" />
         <Orientation>
-          <X>0.0315963477</X>
-          <Y>0.999495447</Y>
-          <Z>-0.00236146222</Z>
-          <W>-0.002216735</W>
+          <X>-0.0204231944</X>
+          <Y>-0.6946612</Y>
+          <Z>0.7186394</Z>
+          <W>0.0242102463</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -2532,8 +2532,8 @@ SPAWN</Text>
       <CubeBlocks>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>105410619850008503</EntityId>
-          <Name>105410619850008503</Name>
+          <EntityId>123790470792109946</EntityId>
+          <Name>123790470792109946</Name>
           <Min x="-1" y="-1" z="-1" />
           <BlockOrientation Forward="Up" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -2580,8 +2580,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>100898036495877441</EntityId>
-          <Name>100898036495877441</Name>
+          <EntityId>97505733268065306</EntityId>
+          <Name>97505733268065306</Name>
           <Min x="1" y="1" z="0" />
           <BlockOrientation Forward="Down" Up="Forward" />
           <ColorMaskHSV x="0.608333349" y="0.2" z="0.55" />
@@ -2603,8 +2603,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>95952679384795309</EntityId>
-          <Name>95952679384795309</Name>
+          <EntityId>118396531410534575</EntityId>
+          <Name>118396531410534575</Name>
           <Min x="-1" y="1" z="0" />
           <BlockOrientation Forward="Down" Up="Forward" />
           <ColorMaskHSV x="0.608333349" y="0.2" z="0.55" />
@@ -2626,8 +2626,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>128470513956936477</EntityId>
-          <Name>128470513956936477</Name>
+          <EntityId>122662408655742042</EntityId>
+          <Name>122662408655742042</Name>
           <Min x="1" y="-1" z="0" />
           <BlockOrientation Forward="Up" Up="Forward" />
           <ColorMaskHSV x="0.608333349" y="0.2" z="0.55" />
@@ -2649,8 +2649,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>96674117218185132</EntityId>
-          <Name>96674117218185132</Name>
+          <EntityId>110846198388431212</EntityId>
+          <Name>110846198388431212</Name>
           <Min x="-1" y="-1" z="0" />
           <BlockOrientation Forward="Up" Up="Forward" />
           <ColorMaskHSV x="0.608333349" y="0.2" z="0.55" />
@@ -2672,8 +2672,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>113664718391253309</EntityId>
-          <Name>113664718391253309</Name>
+          <EntityId>138403730398457145</EntityId>
+          <Name>138403730398457145</Name>
           <Min x="1" y="-1" z="-1" />
           <BlockOrientation Forward="Up" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -2696,8 +2696,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>139840816431914913</EntityId>
-          <Name>139840816431914913</Name>
+          <EntityId>125983399394987581</EntityId>
+          <Name>125983399394987581</Name>
           <Min x="-1" y="1" z="-1" />
           <BlockOrientation Forward="Down" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -2720,8 +2720,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>76844848528317522</EntityId>
-          <Name>76844848528317522</Name>
+          <EntityId>75198429024004794</EntityId>
+          <Name>75198429024004794</Name>
           <Min x="1" y="1" z="-1" />
           <BlockOrientation Forward="Down" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -2750,8 +2750,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_GravityGenerator">
           <SubtypeName />
-          <EntityId>110751278863953469</EntityId>
-          <Name>110751278863953469</Name>
+          <EntityId>136132471014529817</EntityId>
+          <Name>136132471014529817</Name>
           <Min x="-1" y="0" z="-1" />
           <BlockOrientation Forward="Left" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -3143,8 +3143,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
           <SubtypeName>MA_Interior_Light</SubtypeName>
-          <EntityId>136454546361410801</EntityId>
-          <Name>136454546361410801</Name>
+          <EntityId>73467875916249719</EntityId>
+          <Name>73467875916249719</Name>
           <Min x="-2" y="2" z="-4" />
           <BlockOrientation Forward="Right" Up="Up" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -3326,8 +3326,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
           <SubtypeName>MA_Interior_Light</SubtypeName>
-          <EntityId>87111995069984327</EntityId>
-          <Name>87111995069984327</Name>
+          <EntityId>83802852145910328</EntityId>
+          <Name>83802852145910328</Name>
           <Min x="-2" y="-2" z="-4" />
           <BlockOrientation Forward="Right" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -3513,24 +3513,24 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>Starcore Decal Logo Emissive 5x1x5</SubtypeName>
-          <EntityId>79880731955621822</EntityId>
-          <Name>79880731955621822</Name>
+          <EntityId>130577083368524890</EntityId>
+          <Name>130577083368524890</Name>
           <Min x="0" y="0" z="-7" />
           <BlockOrientation Forward="Forward" Up="Right" />
           <ColorMaskHSV x="0.575" y="0.15" z="0.2" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>Starcore Decal Logo Colorable 1x1x1</SubtypeName>
-          <EntityId>99651716433927816</EntityId>
-          <Name>99651716433927816</Name>
+          <EntityId>81648079270882082</EntityId>
+          <Name>81648079270882082</Name>
           <Min x="-2" y="-2" z="-3" />
           <BlockOrientation Forward="Up" Up="Forward" />
           <ColorMaskHSV x="0.575" y="0.2" z="0.55" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TextPanel">
           <SubtypeName>LargeTextPanel</SubtypeName>
-          <EntityId>81933362773315029</EntityId>
-          <Name>81933362773315029</Name>
+          <EntityId>86949591076939754</EntityId>
+          <Name>86949591076939754</Name>
           <Min x="1" y="0" z="-3" />
           <BlockOrientation Forward="Right" Up="Forward" />
           <ColorMaskHSV x="0.575" y="0.15" z="0.2" />
@@ -3648,8 +3648,8 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TextPanel">
           <SubtypeName>LargeBlockCorner_LCD_1</SubtypeName>
-          <EntityId>139946044199996791</EntityId>
-          <Name>139946044199996791</Name>
+          <EntityId>76854579667009445</EntityId>
+          <Name>76854579667009445</Name>
           <Min x="-2" y="0" z="-4" />
           <BlockOrientation Forward="Backward" Up="Right" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -3756,8 +3756,8 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorCorner</SubtypeName>
-          <EntityId>80587449617367288</EntityId>
-          <Name>80587449617367288</Name>
+          <EntityId>123434091457437809</EntityId>
+          <Name>123434091457437809</Name>
           <Min x="3" y="-2" z="-4" />
           <BlockOrientation Forward="Down" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
@@ -3863,8 +3863,8 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_RadioAntenna">
           <SubtypeName>LargeBlockRadioAntennaDish</SubtypeName>
-          <EntityId>114451993515499464</EntityId>
-          <Name>114451993515499464</Name>
+          <EntityId>82801450311438890</EntityId>
+          <Name>82801450311438890</Name>
           <Min x="-2" y="-2" z="2" />
           <BlockOrientation Forward="Left" Up="Backward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -3938,8 +3938,8 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorSide</SubtypeName>
-          <EntityId>136970697196677132</EntityId>
-          <Name>136970697196677132</Name>
+          <EntityId>118474824280946735</EntityId>
+          <Name>118474824280946735</Name>
           <Min x="3" y="-1" z="-3" />
           <BlockOrientation Forward="Up" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
@@ -3953,8 +3953,8 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorSide</SubtypeName>
-          <EntityId>75592008739328716</EntityId>
-          <Name>75592008739328716</Name>
+          <EntityId>88822385431037079</EntityId>
+          <Name>88822385431037079</Name>
           <Min x="3" y="-2" z="-3" />
           <BlockOrientation Forward="Up" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
@@ -4276,56 +4276,56 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorCorner</SubtypeName>
-          <EntityId>94468095406410605</EntityId>
-          <Name>94468095406410605</Name>
+          <EntityId>140505028038764954</EntityId>
+          <Name>140505028038764954</Name>
           <Min x="3" y="-1" z="-4" />
           <BlockOrientation Forward="Down" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorSide</SubtypeName>
-          <EntityId>76229975816943150</EntityId>
-          <Name>76229975816943150</Name>
+          <EntityId>89293765396066801</EntityId>
+          <Name>89293765396066801</Name>
           <Min x="3" y="0" z="-3" />
           <BlockOrientation Forward="Up" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorCorner</SubtypeName>
-          <EntityId>117754557987029879</EntityId>
-          <Name>117754557987029879</Name>
+          <EntityId>82605149441246168</EntityId>
+          <Name>82605149441246168</Name>
           <Min x="3" y="0" z="-4" />
           <BlockOrientation Forward="Down" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorSide</SubtypeName>
-          <EntityId>115986973884621657</EntityId>
-          <Name>115986973884621657</Name>
+          <EntityId>76996382876896699</EntityId>
+          <Name>76996382876896699</Name>
           <Min x="3" y="1" z="-3" />
           <BlockOrientation Forward="Up" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorCorner</SubtypeName>
-          <EntityId>73220116860697491</EntityId>
-          <Name>73220116860697491</Name>
+          <EntityId>112881096342805271</EntityId>
+          <Name>112881096342805271</Name>
           <Min x="3" y="1" z="-4" />
           <BlockOrientation Forward="Down" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorSide</SubtypeName>
-          <EntityId>136957160824865368</EntityId>
-          <Name>136957160824865368</Name>
+          <EntityId>89163599576543941</EntityId>
+          <Name>89163599576543941</Name>
           <Min x="3" y="2" z="-3" />
           <BlockOrientation Forward="Up" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorCorner</SubtypeName>
-          <EntityId>86276536484096259</EntityId>
-          <Name>86276536484096259</Name>
+          <EntityId>82504596157775367</EntityId>
+          <Name>82504596157775367</Name>
           <Min x="3" y="2" z="-4" />
           <BlockOrientation Forward="Down" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
@@ -4445,8 +4445,8 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MedicalRoom">
           <SubtypeName>LargeMedicalRoom</SubtypeName>
-          <EntityId>143981765304513768</EntityId>
-          <Name>143981765304513768</Name>
+          <EntityId>114438057236815619</EntityId>
+          <Name>114438057236815619</Name>
           <Min x="0" y="1" z="-3" />
           <BlockOrientation Forward="Left" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -4692,8 +4692,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>Starcore Decal Logo Colorable 1x1x1</SubtypeName>
-          <EntityId>111499201191449753</EntityId>
-          <Name>111499201191449753</Name>
+          <EntityId>123545376799554527</EntityId>
+          <Name>123545376799554527</Name>
           <Min x="-2" y="2" z="-3" />
           <BlockOrientation Forward="Down" Up="Forward" />
           <ColorMaskHSV x="0.575" y="0.2" z="0.55" />
@@ -4812,8 +4812,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>StarCore skinable 5x5x1</SubtypeName>
-          <EntityId>111106679204877311</EntityId>
-          <Name>111106679204877311</Name>
+          <EntityId>123531025813278129</EntityId>
+          <Name>123531025813278129</Name>
           <Min x="-4" y="0" z="1" />
           <BlockOrientation Forward="Left" Up="Forward" />
           <ColorMaskHSV x="0.575" y="0.15" z="0.2" />
@@ -4832,23 +4832,23 @@ SPAWN</Text>
       <DisplayName>BLU Spawn</DisplayName>
       <DestructibleBlocks>false</DestructibleBlocks>
       <IsRespawnGrid>false</IsRespawnGrid>
-      <LocalCoordSys>9</LocalCoordSys>
+      <LocalCoordSys>13</LocalCoordSys>
       <TargetingTargets />
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_CubeGrid">
       <SubtypeName />
-      <EntityId>116335847299415074</EntityId>
+      <EntityId>125184493502066364</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>89887652126227950</Name>
+      <Name>98631543479343053</Name>
       <PositionAndOrientation>
-        <Position x="7495.2240735109335" y="4.7068824388846924" z="1.4279260688499598" />
-        <Forward x="0.00458046049" y="0.004580461" z="0.999979" />
-        <Up x="-0.0291894246" y="-0.9995628" z="0.004712258" />
+        <Position x="7495.1591111411408" y="2.5177703003229386" z="4.1166775699810145" />
+        <Forward x="0.0292021167" y="0.9995717" z="-0.00191626919" />
+        <Up x="0.00449882634" y="0.0017856363" z="0.999988258" />
         <Orientation>
-          <X>0.9998881</X>
-          <Y>-0.0146015892</Y>
-          <Z>-0.00225655688</Z>
-          <W>0.00232343981</W>
+          <X>0.706374764</X>
+          <Y>-0.008745912</Y>
+          <Z>-0.0119082918</Z>
+          <W>0.7076838</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -4873,8 +4873,8 @@ SPAWN</Text>
       <CubeBlocks>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>72231887879983456</EntityId>
-          <Name>72231887879983456</Name>
+          <EntityId>91119199026307990</EntityId>
+          <Name>91119199026307990</Name>
           <Min x="-1" y="-1" z="-1" />
           <BlockOrientation Forward="Up" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -4921,8 +4921,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>117803013103644593</EntityId>
-          <Name>117803013103644593</Name>
+          <EntityId>113123509275879553</EntityId>
+          <Name>113123509275879553</Name>
           <Min x="1" y="1" z="0" />
           <BlockOrientation Forward="Down" Up="Forward" />
           <ColorMaskHSV x="0.608333349" y="0.2" z="0.55" />
@@ -4944,8 +4944,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>131767158937221895</EntityId>
-          <Name>131767158937221895</Name>
+          <EntityId>126324840700239554</EntityId>
+          <Name>126324840700239554</Name>
           <Min x="-1" y="1" z="0" />
           <BlockOrientation Forward="Down" Up="Forward" />
           <ColorMaskHSV x="0.608333349" y="0.2" z="0.55" />
@@ -4967,8 +4967,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>142023753449248873</EntityId>
-          <Name>142023753449248873</Name>
+          <EntityId>129025754123305058</EntityId>
+          <Name>129025754123305058</Name>
           <Min x="1" y="-1" z="0" />
           <BlockOrientation Forward="Up" Up="Forward" />
           <ColorMaskHSV x="0.608333349" y="0.2" z="0.55" />
@@ -4990,8 +4990,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>76857976280098735</EntityId>
-          <Name>76857976280098735</Name>
+          <EntityId>89874859931941789</EntityId>
+          <Name>89874859931941789</Name>
           <Min x="-1" y="-1" z="0" />
           <BlockOrientation Forward="Up" Up="Forward" />
           <ColorMaskHSV x="0.608333349" y="0.2" z="0.55" />
@@ -5013,8 +5013,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>113038286494533838</EntityId>
-          <Name>113038286494533838</Name>
+          <EntityId>119816059191720298</EntityId>
+          <Name>119816059191720298</Name>
           <Min x="1" y="-1" z="-1" />
           <BlockOrientation Forward="Up" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -5037,8 +5037,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>78021116855970649</EntityId>
-          <Name>78021116855970649</Name>
+          <EntityId>97042349807415644</EntityId>
+          <Name>97042349807415644</Name>
           <Min x="-1" y="1" z="-1" />
           <BlockOrientation Forward="Down" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -5061,8 +5061,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>91498728800249596</EntityId>
-          <Name>91498728800249596</Name>
+          <EntityId>140703759647903139</EntityId>
+          <Name>140703759647903139</Name>
           <Min x="1" y="1" z="-1" />
           <BlockOrientation Forward="Down" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -5091,8 +5091,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_GravityGenerator">
           <SubtypeName />
-          <EntityId>78121613529008759</EntityId>
-          <Name>78121613529008759</Name>
+          <EntityId>84466033743439262</EntityId>
+          <Name>84466033743439262</Name>
           <Min x="-1" y="0" z="-1" />
           <BlockOrientation Forward="Left" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -5484,8 +5484,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
           <SubtypeName>MA_Interior_Light</SubtypeName>
-          <EntityId>138156496488674026</EntityId>
-          <Name>138156496488674026</Name>
+          <EntityId>76157983419864734</EntityId>
+          <Name>76157983419864734</Name>
           <Min x="-2" y="2" z="-4" />
           <BlockOrientation Forward="Right" Up="Up" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -5667,8 +5667,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
           <SubtypeName>MA_Interior_Light</SubtypeName>
-          <EntityId>103052160795960583</EntityId>
-          <Name>103052160795960583</Name>
+          <EntityId>107248514006093526</EntityId>
+          <Name>107248514006093526</Name>
           <Min x="-2" y="-2" z="-4" />
           <BlockOrientation Forward="Right" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -5854,16 +5854,16 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>Starcore Decal Logo Emissive 5x1x5</SubtypeName>
-          <EntityId>86735537483421074</EntityId>
-          <Name>86735537483421074</Name>
+          <EntityId>132102940475830243</EntityId>
+          <Name>132102940475830243</Name>
           <Min x="0" y="0" z="-7" />
           <BlockOrientation Forward="Forward" Up="Right" />
           <ColorMaskHSV x="0" y="0.2" z="0.55" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>Starcore Decal Logo Colorable 1x1x1</SubtypeName>
-          <EntityId>101896047974508354</EntityId>
-          <Name>101896047974508354</Name>
+          <EntityId>102925077008377221</EntityId>
+          <Name>102925077008377221</Name>
           <Min x="-2" y="-2" z="-3" />
           <BlockOrientation Forward="Up" Up="Forward" />
           <ColorMaskHSV x="0" y="0.2" z="0.55" />
@@ -5871,8 +5871,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TextPanel">
           <SubtypeName>LargeTextPanel</SubtypeName>
-          <EntityId>118243203151377366</EntityId>
-          <Name>118243203151377366</Name>
+          <EntityId>108661665035582085</EntityId>
+          <Name>108661665035582085</Name>
           <Min x="1" y="0" z="-3" />
           <BlockOrientation Forward="Right" Up="Forward" />
           <ColorMaskHSV x="0" y="0.2" z="0.55" />
@@ -6003,8 +6003,8 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorCorner</SubtypeName>
-          <EntityId>124790709481158907</EntityId>
-          <Name>124790709481158907</Name>
+          <EntityId>83430790969863167</EntityId>
+          <Name>83430790969863167</Name>
           <Min x="3" y="-2" z="-4" />
           <BlockOrientation Forward="Down" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
@@ -6110,8 +6110,8 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_RadioAntenna">
           <SubtypeName>LargeBlockRadioAntennaDish</SubtypeName>
-          <EntityId>105007144805150171</EntityId>
-          <Name>105007144805150171</Name>
+          <EntityId>110763962691027879</EntityId>
+          <Name>110763962691027879</Name>
           <Min x="-2" y="-2" z="2" />
           <BlockOrientation Forward="Left" Up="Backward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -6185,8 +6185,8 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorSide</SubtypeName>
-          <EntityId>137213872283967870</EntityId>
-          <Name>137213872283967870</Name>
+          <EntityId>136550556193195073</EntityId>
+          <Name>136550556193195073</Name>
           <Min x="3" y="-1" z="-3" />
           <BlockOrientation Forward="Up" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
@@ -6200,8 +6200,8 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorSide</SubtypeName>
-          <EntityId>139143386280413179</EntityId>
-          <Name>139143386280413179</Name>
+          <EntityId>117960967430061600</EntityId>
+          <Name>117960967430061600</Name>
           <Min x="3" y="-2" z="-3" />
           <BlockOrientation Forward="Up" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
@@ -6354,8 +6354,8 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TextPanel">
           <SubtypeName>LargeBlockCorner_LCD_1</SubtypeName>
-          <EntityId>90070071808488048</EntityId>
-          <Name>90070071808488048</Name>
+          <EntityId>120490240512738861</EntityId>
+          <Name>120490240512738861</Name>
           <Min x="-2" y="0" z="-4" />
           <BlockOrientation Forward="Backward" Up="Right" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -6619,56 +6619,56 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorCorner</SubtypeName>
-          <EntityId>97757594891005868</EntityId>
-          <Name>97757594891005868</Name>
+          <EntityId>75069761092253501</EntityId>
+          <Name>75069761092253501</Name>
           <Min x="3" y="-1" z="-4" />
           <BlockOrientation Forward="Down" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorSide</SubtypeName>
-          <EntityId>134387085818277053</EntityId>
-          <Name>134387085818277053</Name>
+          <EntityId>76736308896586353</EntityId>
+          <Name>76736308896586353</Name>
           <Min x="3" y="0" z="-3" />
           <BlockOrientation Forward="Up" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorCorner</SubtypeName>
-          <EntityId>85157457784659665</EntityId>
-          <Name>85157457784659665</Name>
+          <EntityId>123899980101707973</EntityId>
+          <Name>123899980101707973</Name>
           <Min x="3" y="0" z="-4" />
           <BlockOrientation Forward="Down" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorSide</SubtypeName>
-          <EntityId>109399235852206398</EntityId>
-          <Name>109399235852206398</Name>
+          <EntityId>76359821800850784</EntityId>
+          <Name>76359821800850784</Name>
           <Min x="3" y="1" z="-3" />
           <BlockOrientation Forward="Up" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorCorner</SubtypeName>
-          <EntityId>72386245397304225</EntityId>
-          <Name>72386245397304225</Name>
+          <EntityId>117403489543760216</EntityId>
+          <Name>117403489543760216</Name>
           <Min x="3" y="1" z="-4" />
           <BlockOrientation Forward="Down" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorSide</SubtypeName>
-          <EntityId>82259674659966827</EntityId>
-          <Name>82259674659966827</Name>
+          <EntityId>113279298668332724</EntityId>
+          <Name>113279298668332724</Name>
           <Min x="3" y="2" z="-3" />
           <BlockOrientation Forward="Up" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>ArmorCorner</SubtypeName>
-          <EntityId>119497966204127508</EntityId>
-          <Name>119497966204127508</Name>
+          <EntityId>125412969151187894</EntityId>
+          <Name>125412969151187894</Name>
           <Min x="3" y="2" z="-4" />
           <BlockOrientation Forward="Down" Up="Right" />
           <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
@@ -6788,8 +6788,8 @@ https://discord.gg/starcore
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MedicalRoom">
           <SubtypeName>LargeMedicalRoom</SubtypeName>
-          <EntityId>126624855075196161</EntityId>
-          <Name>126624855075196161</Name>
+          <EntityId>82916530969096766</EntityId>
+          <Name>82916530969096766</Name>
           <Min x="0" y="1" z="-3" />
           <BlockOrientation Forward="Left" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -7035,8 +7035,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>Starcore Decal Logo Colorable 1x1x1</SubtypeName>
-          <EntityId>114773524208360104</EntityId>
-          <Name>114773524208360104</Name>
+          <EntityId>72909692394404042</EntityId>
+          <Name>72909692394404042</Name>
           <Min x="-2" y="2" z="-3" />
           <BlockOrientation Forward="Down" Up="Forward" />
           <ColorMaskHSV x="0" y="0.2" z="0.55" />
@@ -7155,8 +7155,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>StarCore skinable 5x5x1</SubtypeName>
-          <EntityId>128684749018992092</EntityId>
-          <Name>128684749018992092</Name>
+          <EntityId>119260338404799814</EntityId>
+          <Name>119260338404799814</Name>
           <Min x="-4" y="0" z="1" />
           <BlockOrientation Forward="Left" Up="Forward" />
           <ColorMaskHSV x="0" y="0.2" z="0.55" />
@@ -7175,23 +7175,23 @@ SPAWN</Text>
       <DisplayName>RED Spawn</DisplayName>
       <DestructibleBlocks>false</DestructibleBlocks>
       <IsRespawnGrid>false</IsRespawnGrid>
-      <LocalCoordSys>8</LocalCoordSys>
+      <LocalCoordSys>14</LocalCoordSys>
       <TargetingTargets />
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_CubeGrid">
       <SubtypeName />
-      <EntityId>99012594308732111</EntityId>
+      <EntityId>110577779171796903</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>110075595643554625</Name>
+      <Name>128416839466072344</Name>
       <PositionAndOrientation>
-        <Position x="0" y="0" z="0" />
-        <Forward x="1" y="3.45697651E-15" z="-7.15255737E-07" />
-        <Up x="7.14717544E-07" y="0.03878648" z="0.999247551" />
+        <Position x="0.17108304568978383" y="-0.98688577742270656" z="0.21417478635373488" />
+        <Forward x="1" y="-1.34495186E-14" z="-7.15255851E-07" />
+        <Up x="-2.43140654E-08" y="0.9994221" z="-0.0339935422" />
         <Orientation>
-          <X>0.490207285</X>
-          <Y>-0.509604156</Y>
-          <Z>-0.490207642</Z>
-          <W>0.5096046</W>
+          <X>-0.0120202648</X>
+          <Y>-0.707004368</Y>
+          <Z>0.0120202741</Z>
+          <W>0.707004845</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -7199,8 +7199,8 @@ SPAWN</Text>
       <CubeBlocks>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>115652526492511128</EntityId>
-          <Name>115652526492511128</Name>
+          <EntityId>98696112315584203</EntityId>
+          <Name>98696112315584203</Name>
           <Min x="-1" y="0" z="0" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
@@ -7222,8 +7222,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>128514805514362640</EntityId>
-          <Name>128514805514362640</Name>
+          <EntityId>131797584081743254</EntityId>
+          <Name>131797584081743254</Name>
           <Min x="1" y="0" z="0" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
@@ -7245,8 +7245,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>143929847089502110</EntityId>
-          <Name>143929847089502110</Name>
+          <EntityId>133394980150557275</EntityId>
+          <Name>133394980150557275</Name>
           <Min x="-1" y="1" z="0" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
@@ -7268,8 +7268,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>137198689099405266</EntityId>
-          <Name>137198689099405266</Name>
+          <EntityId>109694583238502662</EntityId>
+          <Name>109694583238502662</Name>
           <Min x="1" y="1" z="0" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
@@ -7291,8 +7291,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>87332262107441692</EntityId>
-          <Name>87332262107441692</Name>
+          <EntityId>119692245568896636</EntityId>
+          <Name>119692245568896636</Name>
           <Min x="0" y="0" z="-1" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
@@ -7314,8 +7314,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>136493180439625544</EntityId>
-          <Name>136493180439625544</Name>
+          <EntityId>126933431801898506</EntityId>
+          <Name>126933431801898506</Name>
           <Min x="0" y="0" z="1" />
           <BlockOrientation Forward="Backward" Up="Up" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -7338,8 +7338,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>143956222049146124</EntityId>
-          <Name>143956222049146124</Name>
+          <EntityId>135513881167854930</EntityId>
+          <Name>135513881167854930</Name>
           <Min x="0" y="1" z="-1" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
@@ -7361,8 +7361,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
           <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-          <EntityId>142569781606532971</EntityId>
-          <Name>142569781606532971</Name>
+          <EntityId>116797737635466356</EntityId>
+          <Name>116797737635466356</Name>
           <Min x="0" y="1" z="1" />
           <BlockOrientation Forward="Backward" Up="Up" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -7409,8 +7409,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SurvivalKit">
           <SubtypeName>SurvivalKitLarge</SubtypeName>
-          <EntityId>108082242634785783</EntityId>
-          <Name>108082242634785783</Name>
+          <EntityId>81700020932930024</EntityId>
+          <Name>81700020932930024</Name>
           <Min x="-1" y="1" z="-1" />
           <BlockOrientation Forward="Down" Up="Backward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -7456,7 +7456,7 @@ SPAWN</Text>
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>40</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -8292,8 +8292,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>StarCore skinable 5x5x1</SubtypeName>
-          <EntityId>97936771012652384</EntityId>
-          <Name>97936771012652384</Name>
+          <EntityId>86475754707869713</EntityId>
+          <Name>86475754707869713</Name>
           <Min x="0" y="-2" z="0" />
           <BlockOrientation Forward="Down" Up="Backward" />
           <ColorMaskHSV x="0.145833328" y="0.694117665" z="-0.3333333" />
@@ -8307,8 +8307,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TerminalBlock">
           <SubtypeName>ControlPanel</SubtypeName>
-          <EntityId>108105061901217651</EntityId>
-          <Name>108105061901217651</Name>
+          <EntityId>135204271906377063</EntityId>
+          <Name>135204271906377063</Name>
           <Min x="0" y="3" z="-2" />
           <BlockOrientation Forward="Up" Up="Backward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -8324,8 +8324,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TerminalBlock">
           <SubtypeName>ControlPanel</SubtypeName>
-          <EntityId>104763561479247467</EntityId>
-          <Name>104763561479247467</Name>
+          <EntityId>136298655393947613</EntityId>
+          <Name>136298655393947613</Name>
           <Min x="0" y="-2" z="-2" />
           <BlockOrientation Forward="Down" Up="Backward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -8341,8 +8341,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TerminalBlock">
           <SubtypeName>ControlPanel</SubtypeName>
-          <EntityId>72556929890040325</EntityId>
-          <Name>72556929890040325</Name>
+          <EntityId>120836447610064071</EntityId>
+          <Name>120836447610064071</Name>
           <Min x="0" y="3" z="2" />
           <BlockOrientation Forward="Up" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -8358,8 +8358,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TerminalBlock">
           <SubtypeName>ControlPanel</SubtypeName>
-          <EntityId>92201501731395798</EntityId>
-          <Name>92201501731395798</Name>
+          <EntityId>118008818987369947</EntityId>
+          <Name>118008818987369947</Name>
           <Min x="0" y="-2" z="2" />
           <BlockOrientation Forward="Down" Up="Forward" />
           <ColorMaskHSV x="0" y="-0.8" z="0.55" />
@@ -8375,8 +8375,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TerminalBlock">
           <SubtypeName>ControlPanel</SubtypeName>
-          <EntityId>119578998892229995</EntityId>
-          <Name>119578998892229995</Name>
+          <EntityId>94285160547500952</EntityId>
+          <Name>94285160547500952</Name>
           <Min x="3" y="3" z="0" />
           <BlockOrientation Forward="Up" Up="Backward" />
           <ColorMaskHSV x="0.145833328" y="0.694117665" z="-0.3333333" />
@@ -8392,8 +8392,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TerminalBlock">
           <SubtypeName>ControlPanel</SubtypeName>
-          <EntityId>103878131159538082</EntityId>
-          <Name>103878131159538082</Name>
+          <EntityId>87669710461128329</EntityId>
+          <Name>87669710461128329</Name>
           <Min x="-3" y="3" z="0" />
           <BlockOrientation Forward="Up" Up="Backward" />
           <ColorMaskHSV x="0.145833328" y="0.694117665" z="-0.3333333" />
@@ -8409,8 +8409,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TerminalBlock">
           <SubtypeName>ControlPanel</SubtypeName>
-          <EntityId>126852689079886584</EntityId>
-          <Name>126852689079886584</Name>
+          <EntityId>141111878252885243</EntityId>
+          <Name>141111878252885243</Name>
           <Min x="-3" y="-2" z="0" />
           <BlockOrientation Forward="Down" Up="Backward" />
           <ColorMaskHSV x="0.145833328" y="0.694117665" z="-0.3333333" />
@@ -8443,8 +8443,8 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TerminalBlock">
           <SubtypeName>ControlPanel</SubtypeName>
-          <EntityId>136940440414845485</EntityId>
-          <Name>136940440414845485</Name>
+          <EntityId>118668346727794336</EntityId>
+          <Name>118668346727794336</Name>
           <Min x="3" y="-2" z="0" />
           <BlockOrientation Forward="Down" Up="Backward" />
           <ColorMaskHSV x="0.145833328" y="0.694117665" z="-0.3333333" />
@@ -8460,12 +8460,11 @@ SPAWN</Text>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Beacon">
           <SubtypeName>ZoneBlock</SubtypeName>
-          <EntityId>107960584460651211</EntityId>
-          <Name>107960584460651211</Name>
+          <EntityId>89304755227190267</EntityId>
+          <Name>89304755227190267</Name>
           <Min x="0" y="3" z="0" />
           <BlockOrientation Forward="Right" Up="Up" />
           <Owner>144115188075855873</Owner>
-          <BuiltBy>144115188075855873</BuiltBy>
           <ShareMode>Faction</ShareMode>
           <ComponentContainer>
             <Components>
@@ -8491,8 +8490,8 @@ SPAWN</Text>
                         <Key>b7af750e-68e3-4826-bd0e-a75bf36ba3e5</Key>
                         <Value>&lt;?xml version="1.0" encoding="utf-16"?&gt;
 &lt;ZoneDescription xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
-  &lt;GridId&gt;99012594308732111&lt;/GridId&gt;
-  &lt;BlockId&gt;107960584460651211&lt;/BlockId&gt;
+  &lt;GridId&gt;110577779171796903&lt;/GridId&gt;
+  &lt;BlockId&gt;89304755227190267&lt;/BlockId&gt;
   &lt;Progress&gt;0&lt;/Progress&gt;
   &lt;ProgressWhenComplete&gt;10848.2832&lt;/ProgressWhenComplete&gt;
   &lt;ControlledBy&gt;0&lt;/ControlledBy&gt;
@@ -8567,7 +8566,7 @@ SPAWN</Text>
       <DisplayName>StarCore Center Beacon</DisplayName>
       <DestructibleBlocks>false</DestructibleBlocks>
       <IsRespawnGrid>false</IsRespawnGrid>
-      <LocalCoordSys>7</LocalCoordSys>
+      <LocalCoordSys>12</LocalCoordSys>
       <TargetingTargets />
       <GridPresenceTier>Tier1</GridPresenceTier>
     </MyObjectBuilder_EntityBase>
