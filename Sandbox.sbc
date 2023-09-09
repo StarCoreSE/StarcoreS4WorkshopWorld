@@ -5,8 +5,8 @@
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
   <SpectatorPosition>
     <Position x="22.844694797625188" y="2.8641404499845238" z="0.018707840137329203" />
-    <Forward x="-0.999885" y="-0.014725537" z="-0.00361636025" />
-    <Up x="-0.0143375089" y="0.995785" z="-0.09059058" />
+    <Forward x="-0.999885" y="-0.0147255324" z="-0.00361630879" />
+    <Up x="-0.01433751" y="0.995785" z="-0.09059058" />
     <Orientation>
       <X>-0.03719457</X>
       <Y>0.7048464</Y>
@@ -51,7 +51,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -122,7 +122,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -749,6 +749,16 @@ ReplacePaintSurvival=False
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SCThrusterFX">
+      <Name>3033050686.sbm</Name>
+      <PublishedFileId>3033050686</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
@@ -1065,6 +1075,7 @@ ReplacePaintSurvival=False
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1204,6 +1215,7 @@ ReplacePaintSurvival=False
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
           </EntityCameraData>
+          <BuildColorSlots />
           <CreativeToolsEnabled>false</CreativeToolsEnabled>
           <RemoteAdminSettings>0</RemoteAdminSettings>
           <PromoteLevel>None</PromoteLevel>
@@ -1297,6 +1309,8 @@ ReplacePaintSurvival=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64137,4 +64151,7 @@ ReplacePaintSurvival=False
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
