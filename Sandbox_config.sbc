@@ -7,8 +7,8 @@
     <AssemblerSpeedMultiplier>1</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
-    <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <OnlineMode>OFFLINE</OnlineMode>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -79,7 +79,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -144,16 +144,6 @@
     <EnemyTargetIndicatorDistance>20</EnemyTargetIndicatorDistance>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="StarCoreCoresAddon">
-      <Name>3034186044.sbm</Name>
-      <PublishedFileId>3034186044</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCoreCores">
-      <Name>3034185966.sbm</Name>
-      <PublishedFileId>3034185966</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Definition Extension API">
       <Name>2756894170.sbm</Name>
       <PublishedFileId>2756894170</PublishedFileId>
@@ -476,5 +466,5 @@
     </ModItem>
   </Mods>
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
-  <LastSaveTime>2023-09-08T06:26:05.2504059-05:00</LastSaveTime>
+  <LastSaveTime>2023-09-12T21:07:47.0272255-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
