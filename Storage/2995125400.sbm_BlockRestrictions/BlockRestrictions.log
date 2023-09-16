@@ -1,5 +1,5 @@
-[06:22:52.932] [T1] [DS=False] DEBUG | Log Started
-[06:22:52.972] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[15:13:48.715] [T1] [DS=False] DEBUG | Log Started
+[15:13:48.748] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1430,9 +1430,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_CargoContainer/Prizebox
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MyProgrammableBlock/SC_PowerControlSystem_L
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_MyProgrammableBlock/SC_PowerControlSystem_S
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_BatteryBlock/EntityCover4
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_BatteryBlock/EntityCover4RED
@@ -1442,6 +1442,16 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_Collector/SI_Field_Gen
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_Radome
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/SC_PowerControlSystem_L
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/SC_PowerControlSystem_S
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_BatteryBlock/EntityCoverColor
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_BatteryBlock/EntityCoverFractal
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_Flare
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
