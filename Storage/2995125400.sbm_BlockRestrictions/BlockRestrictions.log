@@ -1,5 +1,5 @@
-[20:16:39.053] [T1] [DS=False] DEBUG | Log Started
-[20:16:39.101] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[19:14:46.774] [T1] [DS=False] DEBUG | Log Started
+[19:14:46.817] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1453,6 +1453,22 @@ BeforeStart() - Checking Config for saved settings
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_Flare
 ->-> Setting added successfully
+-> Setting = MyObjectBuilder_Beacon/SC_LightCore_1x1x1
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Beacon/SC_LightCore_1x1x3
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Beacon/SC_MediumCore_2x2x2
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Beacon/SC_MediumCore_3x1x3
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Beacon/SC_HeavyCore_3x3x3
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Beacon/SC_FighterCore
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Beacon/SC_DroneCore
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Beacon/LargeBlockBeacon_AdminCore
+->-> Unable to retrieve MyCubeBlockDefinition
 
 BeforeStart() - Checking Entity Components
 
