@@ -144,12 +144,24 @@
     <EnemyTargetIndicatorDistance>20</EnemyTargetIndicatorDistance>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Blink Drive">
+      <Name>1663539021.sbm</Name>
+      <PublishedFileId>1663539021</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Stealth Drive (Cloaking)">
+      <Name>2805859069.sbm</Name>
+      <PublishedFileId>2805859069</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="StarCoreCoresAddon">
-      <Name>StarCoreCoresAddon</Name>
+      <Name>3034186044.sbm</Name>
+      <PublishedFileId>3034186044</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="StarCoreCores">
-      <Name>StarCoreCores</Name>
+      <Name>3034185966.sbm</Name>
+      <PublishedFileId>3034185966</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="SC_KillCounter">
@@ -489,5 +501,5 @@
     </ModItem>
   </Mods>
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
-  <LastSaveTime>2023-09-29T19:14:19.6533699-05:00</LastSaveTime>
+  <LastSaveTime>2023-09-29T19:40:42.6474449-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

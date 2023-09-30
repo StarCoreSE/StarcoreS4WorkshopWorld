@@ -1,28 +1,28 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>19371840000</ElapsedGameTime>
+  <ElapsedGameTime>23062080000</ElapsedGameTime>
   <SessionName>StarcoreS4WorkshopWorld</SessionName>
   <SpectatorPosition>
-    <Position x="-5652.9162347431757" y="918.18683699300755" z="1408.5431053427396" />
-    <Forward x="-0.5672506" y="0.022272069" z="0.823244" />
-    <Up x="0.137845308" y="0.9880995" z="0.06824929" />
+    <Position x="-5616.4778044403347" y="1001.0475596897388" z="1571.4978252988822" />
+    <Forward x="-0.606239736" y="-0.447760642" z="-0.6572547" />
+    <Up x="-0.3195439" y="0.893940747" z="-0.314263672" />
     <Orientation>
-      <X>0.07618644</X>
-      <Y>0.9517445</Y>
-      <Z>0.0120770922</Z>
-      <W>0.297038972</W>
+      <X>-0.2103962</X>
+      <Y>0.356519431</Y>
+      <Z>0.09361131</Z>
+      <W>0.9054636</W>
     </Orientation>
   </SpectatorPosition>
-  <SpectatorSpeed x="5.76650429" y="1" />
+  <SpectatorSpeed x="0.15" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
-  <CameraController>ThirdPersonSpectator</CameraController>
-  <CameraEntity>0</CameraEntity>
-  <ControlledObject>123784521845666643</ControlledObject>
+  <CameraController>Entity</CameraController>
+  <CameraEntity>104859977538830304</CameraEntity>
+  <ControlledObject>104859977538830304</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2023-09-29T19:14:19.6533699-05:00</LastSaveTime>
-  <SpectatorDistance>96.28522</SpectatorDistance>
+  <LastSaveTime>2023-09-29T19:40:42.6474449-05:00</LastSaveTime>
+  <SpectatorDistance>96.4506</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
   <CharacterToolbar>
@@ -33,7 +33,7 @@
         <Index>0</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Beacon" Subtype="LargeBlockBeacon_AdminCore" />
+          <DefinitionId Type="MyObjectBuilder_Beacon" Subtype="SC_AdminCore" />
         </Data>
       </Slot>
       <Slot>
@@ -56,15 +56,7 @@
   <ControlledEntities>
     <dictionary>
       <item>
-        <Key>123784521845666643</Key>
-        <Value>
-          <ClientId>0</ClientId>
-          <SerialId>0</SerialId>
-          <HashedId>4077708922731094368</HashedId>
-        </Value>
-      </item>
-      <item>
-        <Key>83478134369558295</Key>
+        <Key>104859977538830304</Key>
         <Value>
           <ClientId>0</ClientId>
           <SerialId>0</SerialId>
@@ -807,12 +799,24 @@ SiegeCooldownTimer=18000
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="Blink Drive">
+      <Name>1663539021.sbm</Name>
+      <PublishedFileId>1663539021</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Stealth Drive (Cloaking)">
+      <Name>2805859069.sbm</Name>
+      <PublishedFileId>2805859069</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="StarCoreCoresAddon">
-      <Name>StarCoreCoresAddon</Name>
+      <Name>3034186044.sbm</Name>
+      <PublishedFileId>3034186044</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="StarCoreCores">
-      <Name>StarCoreCores</Name>
+      <Name>3034185966.sbm</Name>
+      <PublishedFileId>3034185966</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="SC_KillCounter">
@@ -1161,11 +1165,11 @@ SiegeCooldownTimer=18000
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.0222222228" y="0" z="7.450581E-09" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-09-29T19:10:41.3363669-05:00</LastLoginTime>
+      <LastLoginTime>2023-09-29T19:39:21.5191772-05:00</LastLoginTime>
       <SavedCharacters>
         <long>104859977538830304</long>
       </SavedCharacters>
-      <LastLogoutTime>2023-09-29T19:14:19.6533699-05:00</LastLogoutTime>
+      <LastLogoutTime>2023-09-29T19:40:42.6474449-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -1176,7 +1180,7 @@ SiegeCooldownTimer=18000
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-09-29T19:10:41.3353659-05:00</LastLoginTime>
+      <LastLoginTime>2023-09-29T19:39:21.5191772-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.0837142-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1189,7 +1193,7 @@ SiegeCooldownTimer=18000
       <DisplayName>ADM NPC9445</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-09-29T19:10:41.3353659-05:00</LastLoginTime>
+      <LastLoginTime>2023-09-29T19:39:21.5191772-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1202,7 +1206,7 @@ SiegeCooldownTimer=18000
       <DisplayName>OUT NPC1742</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-09-29T19:10:41.3353659-05:00</LastLoginTime>
+      <LastLoginTime>2023-09-29T19:39:21.5191772-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1215,7 +1219,7 @@ SiegeCooldownTimer=18000
       <DisplayName>NEU NPC3649</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-09-29T19:10:41.3353659-05:00</LastLoginTime>
+      <LastLoginTime>2023-09-29T19:39:21.5191772-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1228,7 +1232,7 @@ SiegeCooldownTimer=18000
       <DisplayName>BLU NPC1764</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-09-29T19:10:41.3353659-05:00</LastLoginTime>
+      <LastLoginTime>2023-09-29T19:39:21.5191772-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1241,7 +1245,7 @@ SiegeCooldownTimer=18000
       <DisplayName>RED NPC6284</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-09-29T19:10:41.3353659-05:00</LastLoginTime>
+      <LastLoginTime>2023-09-29T19:39:21.5191772-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1254,7 +1258,7 @@ SiegeCooldownTimer=18000
       <DisplayName>Pirate</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-09-29T19:10:46.6983658-05:00</LastLoginTime>
+      <LastLoginTime>2023-09-29T19:39:27.5141759-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:43.2247148-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1285,7 +1289,7 @@ SiegeCooldownTimer=18000
                 <Index>0</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_Beacon" Subtype="LargeBlockBeacon_AdminCore" />
+                  <DefinitionId Type="MyObjectBuilder_Beacon" Subtype="SC_AdminCore" />
                 </Data>
               </Slot>
               <Slot>
@@ -1308,17 +1312,7 @@ SiegeCooldownTimer=18000
           <EntityCameraData>
             <CameraControllerSettings EntityId="104859977538830304">
               <IsFirstPerson>true</IsFirstPerson>
-              <Distance>138.65072631835938</Distance>
-              <HeadAngle x="0" y="0" />
-            </CameraControllerSettings>
-            <CameraControllerSettings EntityId="136649491550996413">
-              <IsFirstPerson>false</IsFirstPerson>
-              <Distance>138.65072721231834</Distance>
-              <HeadAngle x="0" y="0" />
-            </CameraControllerSettings>
-            <CameraControllerSettings EntityId="123784521845666643">
-              <IsFirstPerson>false</IsFirstPerson>
-              <Distance>96.285219578714731</Distance>
+              <Distance>96.4506019535393</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
           </EntityCameraData>
@@ -1613,7 +1607,7 @@ SiegeCooldownTimer=18000
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="0.213075519" y="0.702763855" z="-0.6787649" />
+      <SunDirectionNormalized x="0.188440219" y="0.699836433" z="-0.688998759" />
       <WeatherPlanetData />
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentAssetModifiers" />
@@ -63996,7 +63990,7 @@ SiegeCooldownTimer=18000
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>108633</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>12966</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -64228,187 +64222,9 @@ SiegeCooldownTimer=18000
   <SessionComponentDisabled />
   <InGameTime>2081-01-01T07:00:00</InGameTime>
   <CustomSkybox />
-  <VicinityModelsCache>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2449073590\Models\MA_Buster\MA_Buster_Block.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\1939935505\Models\Cubes\Large\armor\AQD_LG_LA_Slope3x1.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3017842205\Models\PriestReskin_MainScene.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\1939935505\Models\Cubes\Large\armor\AQD_LG_LA_Slope4x1.mwm</string>
-    <string>Models\Cubes\Large\decoy.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2492809392\Models\Cubes\large\AQD_LG_SleekCorridor_Straight.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\1810920525\Models\Cubes\Large\AQD_LG_IonThrusterL_Armored.mwm</string>
-    <string>Models\Cubes\Large\CylindricalColumn.mwm</string>
-    <string>Models\Cubes\Large\FireCover.mwm</string>
-    <string>Models\Cubes\Large\LightArmorPanel.mwm</string>
-    <string>Models\Cubes\Large\InteriorLight.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2621169600\Models\Cubes\Large\AQD_LG_Gyroscope.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2621169600\Models\Cubes\large\AQD_LG_GyroBooster.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2449073590\Models\MA_Buster\MA_Buster_Window.mwm</string>
-    <string>Models\Cubes\Large\BatteryReskin.mwm</string>
-    <string>Models\Cubes\Large\Symbol_I.mwm</string>
-    <string>Models\Cubes\Large\Symbol_H.mwm</string>
-    <string>Models\Cubes\Large\Symbol_D.mwm</string>
-    <string>Models\Cubes\Large\Symbol_B.mwm</string>
-    <string>Models\Cubes\Large\Symbol_C.mwm</string>
-    <string>Models\Cubes\Large\Symbol_A.mwm</string>
-    <string>Models\Cubes\Large\Symbol_R.mwm</string>
-    <string>Models\Cubes\Large\Symbol_Y.mwm</string>
-    <string>Models\Cubes\Large\Symbol_S.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3017842205\Models\TorpReaper_Torp_Main_Scene.mwm</string>
-    <string>Models\Cubes\Large\PassageSciFiLight.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3017832153\Models\MA_Laser2\MA_Laser_Armor02.mwm</string>
-    <string>Models\Cubes\Large\LockerRoomCorner.mwm</string>
-    <string>Models\Cubes\Large\CockpitIndustrial.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2961585236\Models\Cubes\Large\GeneratorLarge.mwm</string>
-    <string>Models\Cubes\Large\GirderStraight.mwm</string>
-    <string>Models\Cubes\Large\LightArmorHalfPanel.mwm</string>
-    <string>Models\Cubes\Large\WindowWallCenter.mwm</string>
-    <string>Models\Cubes\Large\SlideDoor.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2492809392\Models\Cubes\large\AQD_LG_SleekCorridor_StraightLight.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2897767540\Models\Cubes\Large\Tally_8_Emissive.mwm</string>
-    <string>Models\Cubes\Large\HatchDoor.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2492809392\Models\Cubes\large\AQD_LG_SleekCorridor_T.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2492809392\Models\Cubes\large\AQD_LG_SleekCorridor_X.mwm</string>
-    <string>Models\Cubes\Large\FlightMovementBlock.mwm</string>
-    <string>Models\Cubes\Large\passage.mwm</string>
-    <string>Models\Cubes\Large\PassageSciFiWindow.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2621169600\Models\Cubes\large\AQD_LG_GyroUpgrade.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2621169600\Models\Cubes\large\AQD_LG_LargeGyro.mwm</string>
-    <string>Models\Cubes\Large\LCDPanel.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2897767540\Models\Cubes\Large\Tally_10_Emissive.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2449073590\Models\MA_Buster\MA_Buster_Camera.mwm</string>
-    <string>Models\Cubes\Large\BasicMissionBlock.mwm</string>
-    <string>Models\Cubes\Large\AggressiveBlock.mwm</string>
-    <string>Models\Cubes\Large\StoreBlock.mwm</string>
-    <string>Models\Cubes\Large\SurvivalKit.mwm</string>
-    <string>Models\Cubes\Large\ExhaustPipe_Racing.mwm</string>
-    <string>Models\Cubes\Large\Desk.mwm</string>
-    <string>Models\Cubes\Large\Sensor.mwm</string>
-    <string>Models\Cubes\Large\Symbol_0.mwm</string>
-    <string>Models\Cubes\Large\ModularIonThrusterLarge.mwm</string>
-    <string>Models\Cubes\Large\Lockers.mwm</string>
-    <string>Models\Cubes\Large\SciFiWall.mwm</string>
-    <string>Models\Cubes\Large\Shower.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3017842205\Models\Mk3_Railgun_Main.mwm</string>
-    <string>Models\Cubes\Large\ButtonPanel_SciFi.mwm</string>
-    <string>Models\Cubes\Large\RailingStraight.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2897767540\Models\Cubes\Large\Basic_Banner_1x2_HAC.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2897767540\Models\Cubes\Large\Nautical_Flag_Pole_HAC.mwm</string>
-    <string>Models\Cubes\Large\FoodDispenser.mwm</string>
-    <string>Models\Cubes\Large\RailingDiagonal.mwm</string>
-    <string>Models\Cubes\large\Ladder.mwm</string>
-    <string>Models\Cubes\Large\LightPanel.mwm</string>
-    <string>Models\Cubes\Large\BarCounterCorner_SciFi.mwm</string>
-    <string>Models\Cubes\Large\TransparentLCD.mwm</string>
-    <string>Models\Cubes\Large\LightArmor2x1SlopeSideTipPanelInv.mwm</string>
-    <string>Models\Cubes\Large\door.mwm</string>
-    <string>Models\Cubes\large\Corner_LCD_Flat_1.mwm</string>
-    <string>Models\Cubes\Large\BarCounter_SciFi.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3021448970\Models\antenna.mwm</string>
-    <string>Models\Cubes\large\Light_2corner.mwm</string>
-    <string>Models\Cubes\Large\NeonTubesStraight1.mwm</string>
-    <string>Models\Cubes\Large\HeavyArmorPanel.mwm</string>
-    <string>Models\Cubes\Large\WindowSquare.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3017832153\Models\MA_Laser2\MA_Laser_Armor03.mwm</string>
-    <string>Models\Cubes\Large\TextPanel.mwm</string>
-    <string>Models\Cubes\Large\Symbol_8.mwm</string>
-    <string>Models\Cubes\Large\Symbol_9.mwm</string>
-    <string>Models\Cubes\Large\Bed.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3021448970\Models\SlidingDoorThatIsntaFuckingDoor_Large.mwm</string>
-    <string>Models\Cubes\Large\OffsetDoor.mwm</string>
-    <string>Models\Cubes\Large\Viewport_Racing.mwm</string>
-    <string>Models\Cubes\Large\Kitchen.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2897767540\Models\Cubes\Large\Basic_Banner_1x2_HAC_2.mwm</string>
-    <string>Models\Cubes\Large\HeatVent.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2973091771\Models\RWR_Processing_Unit.mwm</string>
-    <string>Models\Cubes\Large\SteelCatwalk_Plate.mwm</string>
-    <string>Models\Cubes\Large\Bathroom.mwm</string>
-    <string>Models\Cubes\Large\LightArmor2x1SlopeSideTipPanel.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\1939935505\Models\Cubes\Large\armor\AQD_LG_LA_Slab_Half_Corner_Split.mwm</string>
-    <string>Models\Cubes\Large\PassageWall.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3017853784\Models\Vulcan.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3017832153\Models\MA_Laser2\MA_Laser_Armor01.mwm</string>
-    <string>Models\Cubes\Large\GratedCatwalk.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2492809392\Models\Cubes\large\AQD_LG_SleekCorridor_Corner.mwm</string>
-    <string>Models\Cubes\Large\GravityGenerator.mwm</string>
-    <string>Models\Cubes\Large\HeavyArmor2x1SlopeSideBasePanelInv.mwm</string>
-    <string>Models\Cubes\Large\HeavyArmor2x1SlopedSideBasePanel.mwm</string>
-    <string>Models\Cubes\Large\Camera.mwm</string>
-    <string>Models\Cubes\Large\InteriorPillar.mwm</string>
-    <string>Models\Cubes\Large\LightArmorHalfCenterPanel.mwm</string>
-    <string>Models\Cubes\large\Light_1corner.mwm</string>
-    <string>Models\Cubes\Large\LightArmor2x1SlopedSideBasePanel.mwm</string>
-    <string>Models\Cubes\Large\LightArmor2x1SlopeSideBasePanelInv.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3020885446\Models\Underclock_Panel.mwm</string>
-    <string>C:\Users\User\AppData\Roaming\SpaceEngineers\Mods\StarCoreCoresAddon\Models\Ship_Core_Admin.mwm</string>
-  </VicinityModelsCache>
+  <VicinityModelsCache />
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopedCornerTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeCornerTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfCornerDiagonal.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionMirroredTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerSquareINVLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfCornerRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfCornerLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerSquareINVRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTriangleTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerBaseTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopedCornerBaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopeRoundPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft_OtherBones.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerRoundTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight_OtherBones.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavyCornerSquareINVRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavyCornerRightPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySlopePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavyCornerLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavyCornerSquareINVLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlateCenter.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavyCornerTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavyCornerTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeCornerInvTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight_OtherBones.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft_OtherBones.mwm</string>
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>

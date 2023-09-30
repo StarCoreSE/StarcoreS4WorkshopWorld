@@ -1,5 +1,5 @@
-[19:14:46.774] [T1] [DS=False] DEBUG | Log Started
-[19:14:46.817] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[19:39:26.320] [T1] [DS=False] DEBUG | Log Started
+[19:39:26.364] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1020,9 +1020,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_Beacon/HarmBeacon
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_UpgradeModule/BlinkDriveLarge
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_UpgradeModule/BlinkDriveSmall
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_UpgradeModule/AQD_LG_GyroBooster
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_UpgradeModule/AQD_SG_GyroBooster
@@ -1469,6 +1469,8 @@ BeforeStart() - Checking Config for saved settings
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Beacon/LargeBlockBeacon_AdminCore
 ->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Beacon/SC_AdminCore
+->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
 
