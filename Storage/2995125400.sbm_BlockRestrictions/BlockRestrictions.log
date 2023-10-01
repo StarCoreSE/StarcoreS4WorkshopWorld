@@ -1,5 +1,5 @@
-[19:39:26.320] [T1] [DS=False] DEBUG | Log Started
-[19:39:26.364] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[17:47:44.106] [T1] [DS=False] DEBUG | Log Started
+[17:47:44.207] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1470,6 +1470,16 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_Beacon/LargeBlockBeacon_AdminCore
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_Beacon/SC_AdminCore
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_UpgradeModule/StealthDrive1x1
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_UpgradeModule/StealthDrive
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_UpgradeModule/StealthDriveSmall
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_UpgradeModule/StealthHeatSink
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_UpgradeModule/StealthHeatSinkSmall
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
