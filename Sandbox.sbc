@@ -887,11 +887,6 @@ SiegeCooldownTimer=18000
       <PublishedFileId>2973091771</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore Paperdoll">
-      <Name>2846569122.sbm</Name>
-      <PublishedFileId>2846569122</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Starcore Minimalist Hud">
       <Name>2846202563.sbm</Name>
       <PublishedFileId>2846202563</PublishedFileId>
