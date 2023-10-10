@@ -154,16 +154,6 @@
       <PublishedFileId>2805859069</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="StarCoreCoresAddon">
-      <Name>3034186044.sbm</Name>
-      <PublishedFileId>3034186044</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCoreCores">
-      <Name>3034185966.sbm</Name>
-      <PublishedFileId>3034185966</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="SC_KillCounter">
       <Name>3037457800.sbm</Name>
       <PublishedFileId>3037457800</PublishedFileId>
@@ -299,29 +289,14 @@
       <PublishedFileId>2414738008</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Ship Points - Sharetrack Starcore">
-      <Name>2756825813.sbm</Name>
-      <PublishedFileId>2756825813</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="SCMobilityBlocks">
       <Name>3020885446.sbm</Name>
       <PublishedFileId>3020885446</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="SCKoth">
-      <Name>3032031200.sbm</Name>
-      <PublishedFileId>3032031200</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="SCEntityCover">
       <Name>3007088668.sbm</Name>
       <PublishedFileId>3007088668</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SCDefenseBlocks">
-      <Name>3023988614.sbm</Name>
-      <PublishedFileId>3023988614</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="SCCleanModCategories">
@@ -412,11 +387,6 @@
     <ModItem FriendlyName="Control Module - basically key binding for ships">
       <Name>655948251.sbm</Name>
       <PublishedFileId>655948251</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Combat Zone Muzzmod">
-      <Name>2759080043.sbm</Name>
-      <PublishedFileId>2759080043</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Cast Spectator">
