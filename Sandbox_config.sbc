@@ -154,16 +154,6 @@
       <PublishedFileId>2805859069</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="StarCoreCoresAddon">
-      <Name>3034186044.sbm</Name>
-      <PublishedFileId>3034186044</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCoreCores">
-      <Name>3034185966.sbm</Name>
-      <PublishedFileId>3034185966</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="SC_KillCounter">
       <Name>3037457800.sbm</Name>
       <PublishedFileId>3037457800</PublishedFileId>
